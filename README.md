@@ -247,7 +247,21 @@ tests/test_validation.py::test_validate_missing_mandatory_schema PASSED  [100%]
 
 ---
 
-## 10. Sample SQL Output (From Actual Warehouse Execution)
+## 10. Analytical Outputs & Visualizations
+
+### Daily Revenue Trend & Category Distribution
+| Daily Sales Velocity (DuckDB OLAP) | Revenue by Product Category |
+| :---: | :---: |
+| ![Daily Revenue Trend](images/daily_revenue_trend.png) | ![Category Revenue Distribution](images/category_revenue_distribution.png) |
+
+### Regional Market Performance & Data Quality Quarantine
+| Regional Revenue & Orders | Quarantine Reason Breakdown |
+| :---: | :---: |
+| ![Regional Performance](images/regional_performance.png) | ![Data Quality Governance](images/data_quality_governance.png) |
+
+---
+
+## 11. Sample SQL Output (From Actual Warehouse Execution)
 
 Executing `sql/01_total_revenue_summary.sql` on the processed retail warehouse:
 
@@ -269,7 +283,7 @@ FROM retail_transactions;
 
 ---
 
-## 11. Optional Google Cloud Platform (GCP) Configuration
+## 12. Optional Google Cloud Platform (GCP) Configuration
 
 To run against Google BigQuery and Cloud Dataflow:
 
@@ -291,7 +305,7 @@ To run against Google BigQuery and Cloud Dataflow:
 
 ---
 
-## 12. Limitations & Future Roadmap
+## 13. Limitations & Future Roadmap
 
 - **Streaming Ingestion:** Current pipeline uses batch processing. Future enhancement: implement Pub/Sub streaming ingestion with sliding event-time windows in Apache Beam.
 - **SCD Type 2:** Implement Slowly Changing Dimensions Type 2 for evolving customer profiles.
@@ -299,6 +313,6 @@ To run against Google BigQuery and Cloud Dataflow:
 
 ---
 
-## 13. License & Contributing
+## 14. License & Contributing
 
 Distributed under the MIT License. Contributions and feedback are welcome!
