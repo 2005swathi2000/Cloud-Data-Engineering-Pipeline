@@ -1,0 +1,137 @@
+{
+  "creationTime": "1681926102934",
+  "kind": "bigquery#table",
+  "lastModifiedTime": "1681926127488",
+  "location": "US",
+  "numActiveLogicalBytes": "3360",
+  "numActivePhysicalBytes": "4301",
+  "numBytes": "3360",
+  "numLongTermBytes": "0",
+  "numLongTermLogicalBytes": "0",
+  "numLongTermPhysicalBytes": "0",
+  "numRows": "20",
+  "numTimeTravelPhysicalBytes": "0",
+  "numTotalLogicalBytes": "3360",
+  "numTotalPhysicalBytes": "4301",
+  "schema": {
+    "fields": [
+      {
+        "mode": "NULLABLE",
+        "name": "delivery",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "garage",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "restaurantspricerange2",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "businessacceptscreditcards",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "good_ambience",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "outdoorseating",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "wifi",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "bikeparking",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "hastv",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "goodforkids",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "caters",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "restaurantsattire",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "restaurantsreservations",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "restaurantsgoodforgroups",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "drivethru",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "alcohol",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "restaurantstableservice",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "noiselevel",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "byappointmentonly",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "wheelchairaccessible",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "meal_diversity",
+        "type": "INTEGER"
+      },
+      {
+        "mode": "NULLABLE",
+        "name": "business_id",
+        "type": "INTEGER"
+      }
+    ]
+  },
+  "selfLink": "",
+  "tableReference": {
+    "datasetId": "",
+    "projectId": "",
+    "tableId": ""
+  },
+  "type": "TABLE"
+}

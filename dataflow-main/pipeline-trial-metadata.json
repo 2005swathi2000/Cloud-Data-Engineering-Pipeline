@@ -1,0 +1,41 @@
+{
+"description": "Beam Flex Template for Parquet to BigQuery",
+"name": "Parquet-to-BigQuery",
+"parameters": [
+{
+    "name": "project",
+    "label": "Project ID",
+    "helpText": "The project id where magic happens.",
+    "paramType": "TEXT",
+    "isOptional": false
+},
+{
+    "name": "bucket",
+    "label": "GCS Bucket Name",
+    "helpText": "The bucket name where the files are stored.",
+    "paramType": "GCS_READ_BUCKET",
+    "isOptional": false
+},
+{
+    "name": "parquetpath",
+    "label": "Parquet Files Path",
+    "helpText": "The file path for the new parquet files.",
+    "paramType": "TEXT",
+    "isOptional": false
+},
+{
+    "name": "dataset",
+    "label": "BigQuery Dataset",
+    "helpText": "The BigQuery dataset where data is gonna be stored.",
+    "paramType": "TEXT",
+    "isOptional": false
+},
+{
+    "name": "table",
+    "label": "BigQuery Table",
+    "helpText": "The BigQuery table to store the data.",
+    "paramType": "TEXT",
+    "isOptional": false
+}
+]
+}
