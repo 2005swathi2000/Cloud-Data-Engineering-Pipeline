@@ -1,0 +1,147 @@
+[
+  {
+    "name": "transaction_id",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Unique transaction primary key identifier"
+  },
+  {
+    "name": "customer_id",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Customer foreign key identifier"
+  },
+  {
+    "name": "customer_masked_email",
+    "type": "STRING",
+    "mode": "NULLABLE",
+    "description": "PII-minimized pseudonymized customer email (GDPR/CCPA compliant)"
+  },
+  {
+    "name": "transaction_timestamp",
+    "type": "TIMESTAMP",
+    "mode": "REQUIRED",
+    "description": "Event timestamp. Used for BigQuery partition by DATE(transaction_timestamp)"
+  },
+  {
+    "name": "transaction_date",
+    "type": "DATE",
+    "mode": "REQUIRED",
+    "description": "Derived transaction calendar date"
+  },
+  {
+    "name": "transaction_year",
+    "type": "INTEGER",
+    "mode": "REQUIRED",
+    "description": "Calendar year"
+  },
+  {
+    "name": "transaction_month",
+    "type": "INTEGER",
+    "mode": "REQUIRED",
+    "description": "Calendar month (1-12)"
+  },
+  {
+    "name": "transaction_day",
+    "type": "INTEGER",
+    "mode": "REQUIRED",
+    "description": "Calendar day of month (1-31)"
+  },
+  {
+    "name": "transaction_hour",
+    "type": "INTEGER",
+    "mode": "REQUIRED",
+    "description": "Transaction hour (0-23)"
+  },
+  {
+    "name": "store_id",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Store location identifier"
+  },
+  {
+    "name": "store_region",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Retail market region. Recommended for BigQuery clustering"
+  },
+  {
+    "name": "product_id",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "SKU identifier"
+  },
+  {
+    "name": "product_name",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Product display title"
+  },
+  {
+    "name": "product_category",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Product category hierarchy. Recommended for BigQuery clustering"
+  },
+  {
+    "name": "unit_price",
+    "type": "NUMERIC",
+    "mode": "REQUIRED",
+    "description": "Item unit price in USD"
+  },
+  {
+    "name": "quantity",
+    "type": "INTEGER",
+    "mode": "REQUIRED",
+    "description": "Number of units purchased"
+  },
+  {
+    "name": "discount_amount",
+    "type": "NUMERIC",
+    "mode": "REQUIRED",
+    "description": "Discount applied in USD"
+  },
+  {
+    "name": "gross_amount",
+    "type": "NUMERIC",
+    "mode": "REQUIRED",
+    "description": "Pre-discount total: unit_price * quantity"
+  },
+  {
+    "name": "net_amount",
+    "type": "NUMERIC",
+    "mode": "REQUIRED",
+    "description": "Taxable subtotal: gross_amount - discount_amount"
+  },
+  {
+    "name": "tax_amount",
+    "type": "NUMERIC",
+    "mode": "REQUIRED",
+    "description": "Calculated sales tax: net_amount * 0.08"
+  },
+  {
+    "name": "total_amount",
+    "type": "NUMERIC",
+    "mode": "REQUIRED",
+    "description": "Final customer charge: net_amount + tax_amount"
+  },
+  {
+    "name": "payment_method",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Payment method used (Credit Card, Debit Card, UPI, PayPal, Cash)"
+  },
+  {
+    "name": "pipeline_run_id",
+    "type": "STRING",
+    "mode": "REQUIRED",
+    "description": "Audit UUID of the data engineering pipeline run"
+  },
+  {
+    "name": "ingested_at",
+    "type": "TIMESTAMP",
+    "mode": "REQUIRED",
+    "description": "Warehouse ingestion timestamp"
+  }
+]
+

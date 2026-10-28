@@ -1,0 +1,36 @@
+{
+  "title": "Retail Transaction Ingestion Schema",
+  "description": "Validation schema and data contract for incoming retail transactions",
+  "version": "1.0.0",
+  "required_fields": [
+    "transaction_id",
+    "customer_id",
+    "customer_email",
+    "transaction_timestamp",
+    "store_id",
+    "store_region",
+    "product_id",
+    "product_name",
+    "product_category",
+    "unit_price",
+    "quantity",
+    "discount_amount",
+    "payment_method"
+  ],
+  "field_definitions": {
+    "transaction_id": {"type": "string", "description": "Unique identifier for transaction (e.g. TXN-10001)"},
+    "customer_id": {"type": "string", "description": "Customer identifier (e.g. CUST-5001)"},
+    "customer_email": {"type": "string", "description": "Customer email address (PII, will be masked during transformation)"},
+    "transaction_timestamp": {"type": "timestamp", "description": "ISO 8601 timestamp of transaction"},
+    "store_id": {"type": "string", "description": "Retail store identifier"},
+    "store_region": {"type": "string", "description": "Geographical region (North, South, East, West, Central, Online)"},
+    "product_id": {"type": "string", "description": "SKU or product identifier"},
+    "product_name": {"type": "string", "description": "Descriptive product title"},
+    "product_category": {"type": "string", "description": "Category classification"},
+    "unit_price": {"type": "numeric", "minimum": 0.01, "description": "Price per item in USD"},
+    "quantity": {"type": "integer", "minimum": 1, "description": "Count of items purchased"},
+    "discount_amount": {"type": "numeric", "minimum": 0.0, "description": "Discount in USD, must be <= gross amount"},
+    "payment_method": {"type": "string", "description": "Payment instrument (Credit Card, Debit Card, UPI, PayPal, Cash)"}
+  }
+}
+

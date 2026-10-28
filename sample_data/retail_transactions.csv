@@ -1,0 +1,1201 @@
+transaction_id,customer_id,customer_email,transaction_timestamp,store_id,store_region,product_id,product_name,product_category,unit_price,quantity,discount_amount,payment_method
+TXN-100001,CUST-1028,user_1028@retailcorp.com,2026-08-16T12:08:47,STORE-APP1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,Cash
+TXN-100002,CUST-1022,user_1022@retailcorp.com,2026-08-06T12:14:32,STORE-N10,North,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,0.0,Cash
+TXN-100003,CUST-1107,user_1107@retailcorp.com,2026-09-21T09:48:51,STORE-W41,West,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,UPI
+TXN-100004,CUST-1039,user_1039@retailcorp.com,2026-08-06T15:06:22,STORE-E30,East,PROD-203,Waterproof Hiking Boots,Apparel,145.0,3,0.0,Credit Card
+TXN-100005,CUST-1117,user_1117@retailcorp.com,2026-09-05T13:53:40,STORE-W40,West,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,Cash
+TXN-100006,CUST-1049,user_1049@retailcorp.com,2026-08-15T21:18:05,STORE-N12,North,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,3,0.0,PayPal
+TXN-100007,CUST-1071,user_1071@retailcorp.com,2026-08-11T14:22:13,STORE-APP1,Online,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,0.0,Credit Card
+TXN-100008,CUST-1043,user_1043@retailcorp.com,2026-08-25T13:59:40,STORE-S21,South,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,37.29,Credit Card
+TXN-100009,CUST-1058,user_1058@retailcorp.com,2026-08-18T10:13:58,STORE-E31,East,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,4,0.0,UPI
+TXN-100010,CUST-1054,user_1054@retailcorp.com,2026-08-10T13:08:15,STORE-W41,West,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,0.0,Cash
+TXN-100011,CUST-1109,user_1109@retailcorp.com,2026-08-09T17:31:05,STORE-E30,East,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,0.0,Debit Card
+TXN-100012,CUST-1040,user_1040@retailcorp.com,2026-08-25T15:38:29,STORE-C50,Central,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,Credit Card
+TXN-100013,CUST-1029,user_1029@retailcorp.com,2026-08-08T13:27:10,STORE-APP1,Online,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,UPI
+TXN-100014,CUST-1128,user_1128@retailcorp.com,2026-09-25T19:19:53,STORE-C50,Central,PROD-202,Women Merino Wool Sweater,Apparel,110.0,2,0.0,Debit Card
+TXN-100015,CUST-1095,user_1095@retailcorp.com,2026-09-08T14:31:01,STORE-C50,Central,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,UPI
+TXN-100016,CUST-1061,user_1061@retailcorp.com,2026-08-06T20:31:52,STORE-S20,South,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,Debit Card
+TXN-100017,CUST-1032,user_1032@retailcorp.com,2026-08-17T17:55:38,STORE-C50,Central,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,157.07,Debit Card
+TXN-100018,CUST-1079,user_1079@retailcorp.com,2026-08-29T17:28:07,STORE-APP1,Online,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,2.02,Cash
+TXN-100019,CUST-1058,user_1058@retailcorp.com,2026-09-15T19:03:14,STORE-N10,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,18.82,Cash
+TXN-100020,CUST-1060,user_1060@retailcorp.com,2026-08-14T17:08:46,STORE-APP1,Online,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,4,0.0,PayPal
+TXN-100021,CUST-1062,user_1062@retailcorp.com,2026-08-07T10:42:27,STORE-W40,West,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Credit Card
+TXN-100022,CUST-1025,user_1025@retailcorp.com,2026-09-21T10:15:12,STORE-W41,West,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,PayPal
+TXN-100023,CUST-1046,user_1046@retailcorp.com,2026-09-25T10:28:51,STORE-W40,West,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,3,0.0,Credit Card
+TXN-100024,CUST-1138,user_1138@retailcorp.com,2026-08-11T15:31:30,STORE-N10,North,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,Credit Card
+TXN-100025,CUST-1042,user_1042@retailcorp.com,2026-08-17T21:50:29,STORE-N11,North,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Cash
+TXN-100026,CUST-1124,user_1124@retailcorp.com,2026-08-14T09:37:47,STORE-S21,South,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,Credit Card
+TXN-100027,CUST-1012,user_1012@retailcorp.com,2026-08-04T17:05:54,STORE-C50,Central,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Debit Card
+TXN-100028,CUST-1103,user_1103@retailcorp.com,2026-09-07T18:02:39,STORE-C50,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,Cash
+TXN-100029,CUST-1133,user_1133@retailcorp.com,2026-09-12T20:20:15,STORE-E30,East,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,6.61,PayPal
+TXN-100030,CUST-1080,user_1080@retailcorp.com,2026-09-09T18:06:04,STORE-N11,North,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,Debit Card
+TXN-100031,CUST-1089,user_1089@retailcorp.com,2026-08-19T11:28:53,STORE-S21,South,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,Cash
+TXN-100032,CUST-1002,user_1002@retailcorp.com,2026-09-26T11:16:07,STORE-WEB1,Online,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,3,0.0,Debit Card
+TXN-100033,CUST-1069,user_1069@retailcorp.com,2026-09-15T14:13:43,STORE-C50,Central,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,61.39,Credit Card
+TXN-100034,CUST-1023,user_1023@retailcorp.com,2026-08-01T14:49:08,STORE-E30,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,7.9,Cash
+TXN-100035,CUST-1109,user_1109@retailcorp.com,2026-09-26T20:57:09,STORE-N10,North,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,Cash
+TXN-100036,CUST-1141,user_1141@retailcorp.com,2026-08-03T13:23:57,STORE-W40,West,PROD-201,Men Classic Denim Jacket,Apparel,89.0,4,0.0,Credit Card
+TXN-100037,CUST-1091,user_1091@retailcorp.com,2026-09-12T10:22:49,STORE-WEB1,Online,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,0.0,Cash
+TXN-100038,CUST-1039,user_1039@retailcorp.com,2026-09-26T15:01:11,STORE-S20,South,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,0.0,PayPal
+TXN-100039,CUST-1063,user_1063@retailcorp.com,2026-08-25T09:54:30,STORE-S20,South,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,PayPal
+TXN-100040,CUST-1089,user_1089@retailcorp.com,2026-08-02T19:12:25,STORE-S20,South,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,UPI
+TXN-100041,CUST-1089,user_1089@retailcorp.com,2026-08-02T10:56:16,STORE-APP1,Online,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,UPI
+TXN-100042,CUST-1009,user_1009@retailcorp.com,2026-08-23T20:50:20,STORE-C51,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,Credit Card
+TXN-100043,CUST-1098,user_1098@retailcorp.com,2026-09-15T15:00:33,STORE-E30,East,PROD-203,Waterproof Hiking Boots,Apparel,145.0,4,0.0,Debit Card
+TXN-100044,CUST-1093,user_1093@retailcorp.com,2026-09-28T14:39:20,STORE-N12,North,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,9.07,Cash
+TXN-100045,CUST-1079,user_1079@retailcorp.com,2026-09-14T13:35:08,STORE-E31,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,PayPal
+TXN-100046,CUST-1044,user_1044@retailcorp.com,2026-08-20T13:13:27,STORE-W40,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,0.0,UPI
+TXN-100047,CUST-1119,user_1119@retailcorp.com,2026-09-02T16:50:57,STORE-W40,West,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,4,0.0,Credit Card
+TXN-100048,CUST-1072,user_1072@retailcorp.com,2026-09-13T13:14:51,STORE-N10,North,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,3.9,PayPal
+TXN-100049,CUST-1018,user_1018@retailcorp.com,2026-09-15T20:24:31,STORE-W40,West,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,45.79,Credit Card
+TXN-100050,CUST-1108,user_1108@retailcorp.com,2026-08-04T17:15:58,STORE-S21,South,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,3,0.0,PayPal
+TXN-100051,CUST-1135,user_1135@retailcorp.com,2026-09-23T17:28:57,STORE-W41,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,PayPal
+TXN-100052,CUST-1066,user_1066@retailcorp.com,2026-09-19T21:33:31,STORE-APP1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,23.29,UPI
+TXN-100053,CUST-1060,user_1060@retailcorp.com,2026-09-27T17:05:08,STORE-E31,East,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,Debit Card
+TXN-100054,CUST-1054,user_1054@retailcorp.com,2026-08-22T17:29:26,STORE-W41,West,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,PayPal
+TXN-100055,CUST-1149,user_1149@retailcorp.com,2026-08-31T09:22:19,STORE-C51,Central,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,0.0,PayPal
+TXN-100056,CUST-1137,user_1137@retailcorp.com,2026-08-18T15:31:01,STORE-W40,West,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,PayPal
+TXN-100057,CUST-1042,user_1042@retailcorp.com,2026-09-28T15:37:36,STORE-S20,South,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,68.35,PayPal
+TXN-100058,CUST-1046,user_1046@retailcorp.com,2026-08-21T12:29:20,STORE-E31,East,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,UPI
+TXN-100059,CUST-1107,user_1107@retailcorp.com,2026-08-02T20:34:03,STORE-N11,North,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,5,0.0,Credit Card
+TXN-100060,CUST-1010,user_1010@retailcorp.com,2026-09-23T09:39:09,STORE-S20,South,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,Credit Card
+TXN-100061,CUST-1144,user_1144@retailcorp.com,2026-09-19T14:10:38,STORE-W41,West,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,0.0,Credit Card
+TXN-100062,CUST-1041,user_1041@retailcorp.com,2026-08-02T13:36:43,STORE-N12,North,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,3,0.0,Debit Card
+TXN-100063,CUST-1019,user_1019@retailcorp.com,2026-09-19T13:54:43,STORE-N12,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,74.68,Credit Card
+TXN-100064,CUST-1088,user_1088@retailcorp.com,2026-08-05T17:41:21,STORE-APP1,Online,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,PayPal
+TXN-100065,CUST-1027,user_1027@retailcorp.com,2026-09-27T16:45:09,STORE-E32,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,UPI
+TXN-100066,CUST-1137,user_1137@retailcorp.com,2026-09-22T20:37:17,STORE-W41,West,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,228.23,UPI
+TXN-100067,CUST-1115,user_1115@retailcorp.com,2026-08-22T09:31:54,STORE-W41,West,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,UPI
+TXN-100068,CUST-1066,user_1066@retailcorp.com,2026-09-14T13:35:00,STORE-E32,East,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,3.88,PayPal
+TXN-100069,CUST-1125,user_1125@retailcorp.com,2026-09-11T20:31:28,STORE-APP1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,31.46,Debit Card
+TXN-100070,CUST-1078,user_1078@retailcorp.com,2026-08-28T20:35:21,STORE-W41,West,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,UPI
+TXN-100071,CUST-1064,user_1064@retailcorp.com,2026-08-13T14:07:47,STORE-N12,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,Debit Card
+TXN-100072,CUST-1049,user_1049@retailcorp.com,2026-08-18T20:37:48,STORE-APP1,Online,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,9.44,Debit Card
+TXN-100073,CUST-1075,user_1075@retailcorp.com,2026-08-20T09:45:34,STORE-E30,East,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,11.0,UPI
+TXN-100074,CUST-1032,user_1032@retailcorp.com,2026-09-06T13:30:30,STORE-N10,North,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,69.25,PayPal
+TXN-100075,CUST-1029,user_1029@retailcorp.com,2026-08-05T18:40:43,STORE-W41,West,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,53.64,UPI
+TXN-100076,CUST-1021,user_1021@retailcorp.com,2026-09-18T15:38:38,STORE-N12,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,48.53,PayPal
+TXN-100077,CUST-1113,user_1113@retailcorp.com,2026-08-20T18:39:03,STORE-C51,Central,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,0.0,Debit Card
+TXN-100078,CUST-1054,user_1054@retailcorp.com,2026-08-11T12:11:35,STORE-WEB1,Online,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,9.4,Cash
+TXN-100079,CUST-1120,user_1120@retailcorp.com,2026-08-19T20:18:44,STORE-N10,North,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,3,63.51,UPI
+TXN-100080,CUST-1050,user_1050@retailcorp.com,2026-08-15T19:09:58,STORE-N12,North,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,1.44,UPI
+TXN-100081,CUST-1145,user_1145@retailcorp.com,2026-08-30T20:19:44,STORE-W40,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,32.62,PayPal
+TXN-100082,CUST-1020,user_1020@retailcorp.com,2026-09-08T13:01:05,STORE-W41,West,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,Cash
+TXN-100083,CUST-1005,user_1005@retailcorp.com,2026-09-18T21:11:30,STORE-C50,Central,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,UPI
+TXN-100084,CUST-1046,user_1046@retailcorp.com,2026-08-06T16:22:26,STORE-APP1,Online,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,Debit Card
+TXN-100085,CUST-1084,user_1084@retailcorp.com,2026-08-19T19:25:52,STORE-APP1,Online,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,3.1,UPI
+TXN-100086,CUST-1082,user_1082@retailcorp.com,2026-09-12T17:29:26,STORE-W40,West,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,Cash
+TXN-100087,CUST-1127,user_1127@retailcorp.com,2026-08-18T17:08:59,STORE-N10,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,0.0,PayPal
+TXN-100088,CUST-1031,user_1031@retailcorp.com,2026-09-15T11:19:35,STORE-WEB1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,Debit Card
+TXN-100089,CUST-1029,user_1029@retailcorp.com,2026-09-23T11:31:59,STORE-N12,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,0.0,UPI
+TXN-100090,CUST-1106,user_1106@retailcorp.com,2026-08-30T17:09:24,STORE-W40,West,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Debit Card
+TXN-100091,CUST-1017,user_1017@retailcorp.com,2026-09-29T21:32:17,STORE-W41,West,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,3,22.75,Cash
+TXN-100092,CUST-1148,user_1148@retailcorp.com,2026-09-04T16:22:21,STORE-S21,South,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,0.0,PayPal
+TXN-100093,CUST-1082,user_1082@retailcorp.com,2026-09-06T15:14:54,STORE-WEB1,Online,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,46.89,PayPal
+TXN-100094,CUST-1098,user_1098@retailcorp.com,2026-08-09T17:37:21,STORE-W40,West,PROD-201,Men Classic Denim Jacket,Apparel,89.0,3,0.0,PayPal
+TXN-100095,CUST-1025,user_1025@retailcorp.com,2026-08-10T15:55:41,STORE-N12,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,4,200.01,UPI
+TXN-100096,CUST-1086,user_1086@retailcorp.com,2026-09-24T14:54:43,STORE-WEB1,Online,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,3,0.0,UPI
+TXN-100097,CUST-1124,user_1124@retailcorp.com,2026-08-16T19:43:58,STORE-C50,Central,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,101.63,Credit Card
+TXN-100098,CUST-1025,user_1025@retailcorp.com,2026-09-27T09:02:20,STORE-S21,South,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,63.52,Debit Card
+TXN-100099,CUST-1062,user_1062@retailcorp.com,2026-08-11T11:05:39,STORE-C50,Central,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,3,0.0,Debit Card
+TXN-100100,CUST-1127,user_1127@retailcorp.com,2026-09-10T13:29:16,STORE-S21,South,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,0.0,PayPal
+TXN-100101,CUST-1073,user_1073@retailcorp.com,2026-08-23T18:19:40,STORE-N11,North,PROD-202,Women Merino Wool Sweater,Apparel,110.0,4,0.0,PayPal
+TXN-100102,CUST-1077,user_1077@retailcorp.com,2026-08-07T12:24:36,STORE-W41,West,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,22.46,Credit Card
+TXN-100103,CUST-1101,user_1101@retailcorp.com,2026-09-25T19:49:47,STORE-N12,North,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,5,0.0,PayPal
+TXN-100104,CUST-1073,user_1073@retailcorp.com,2026-08-15T19:12:39,STORE-C51,Central,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,Debit Card
+TXN-100105,CUST-1024,user_1024@retailcorp.com,2026-08-03T18:23:46,STORE-E31,East,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,UPI
+TXN-100106,CUST-1106,user_1106@retailcorp.com,2026-09-20T17:56:23,STORE-S20,South,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,Debit Card
+TXN-100107,CUST-1065,user_1065@retailcorp.com,2026-09-25T14:51:07,STORE-E32,East,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,195.75,Debit Card
+TXN-100108,CUST-1101,user_1101@retailcorp.com,2026-08-01T13:34:07,STORE-N11,North,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,UPI
+TXN-100109,CUST-1149,user_1149@retailcorp.com,2026-08-07T19:14:30,STORE-APP1,Online,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Cash
+TXN-100110,CUST-1083,user_1083@retailcorp.com,2026-09-10T16:58:44,STORE-WEB1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,Debit Card
+TXN-100111,CUST-1011,user_1011@retailcorp.com,2026-08-08T10:15:56,STORE-E31,East,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,UPI
+TXN-100112,CUST-1138,user_1138@retailcorp.com,2026-09-26T15:41:06,STORE-C50,Central,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,3,0.0,UPI
+TXN-100113,CUST-1008,user_1008@retailcorp.com,2026-08-29T12:54:23,STORE-S21,South,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,Cash
+TXN-100114,CUST-1091,user_1091@retailcorp.com,2026-08-13T10:54:52,STORE-W41,West,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,Cash
+TXN-100115,CUST-1005,user_1005@retailcorp.com,2026-08-09T21:36:13,STORE-E30,East,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,Debit Card
+TXN-100116,CUST-1055,user_1055@retailcorp.com,2026-09-20T18:00:17,STORE-E30,East,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,3,39.41,UPI
+TXN-100117,CUST-1044,user_1044@retailcorp.com,2026-08-09T09:22:50,STORE-WEB1,Online,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,Credit Card
+TXN-100118,CUST-1044,user_1044@retailcorp.com,2026-09-17T15:33:07,STORE-N10,North,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,2,0.0,UPI
+TXN-100119,CUST-1131,user_1131@retailcorp.com,2026-09-09T09:46:50,STORE-W40,West,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,3,0.0,UPI
+TXN-100120,CUST-1117,user_1117@retailcorp.com,2026-09-24T15:27:43,STORE-N11,North,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,PayPal
+TXN-100121,CUST-1018,user_1018@retailcorp.com,2026-08-10T10:08:17,STORE-E32,East,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,2,0.0,UPI
+TXN-100122,CUST-1097,user_1097@retailcorp.com,2026-08-07T21:44:07,STORE-W41,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,3,0.0,Cash
+TXN-100123,CUST-1055,user_1055@retailcorp.com,2026-08-27T14:52:29,STORE-W40,West,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,UPI
+TXN-100124,CUST-1109,user_1109@retailcorp.com,2026-08-24T11:43:59,STORE-APP1,Online,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,2.83,PayPal
+TXN-100125,CUST-1024,user_1024@retailcorp.com,2026-09-07T17:35:21,STORE-S20,South,PROD-402,Cloud Native Architecture Guide,Books,49.99,2,0.0,PayPal
+TXN-100126,CUST-1013,user_1013@retailcorp.com,2026-08-23T10:36:32,STORE-C51,Central,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,Debit Card
+TXN-100127,CUST-1027,user_1027@retailcorp.com,2026-08-08T21:17:36,STORE-C51,Central,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,Cash
+TXN-100128,CUST-1142,user_1142@retailcorp.com,2026-08-02T11:17:44,STORE-C51,Central,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,0.0,UPI
+TXN-100129,CUST-1001,user_1001@retailcorp.com,2026-08-05T11:47:40,STORE-S21,South,PROD-202,Women Merino Wool Sweater,Apparel,110.0,5,71.26,PayPal
+TXN-100130,CUST-1107,user_1107@retailcorp.com,2026-08-24T13:46:20,STORE-E30,East,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,0.0,Credit Card
+TXN-100131,CUST-1013,user_1013@retailcorp.com,2026-09-13T10:17:28,STORE-S20,South,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,0.0,PayPal
+TXN-100132,CUST-1106,user_1106@retailcorp.com,2026-08-23T15:07:18,STORE-S20,South,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,2,0.0,Cash
+TXN-100133,CUST-1078,user_1078@retailcorp.com,2026-09-08T09:00:13,STORE-S21,South,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,112.87,UPI
+TXN-100134,CUST-1074,user_1074@retailcorp.com,2026-09-01T20:27:11,STORE-N10,North,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,Debit Card
+TXN-100135,CUST-1128,user_1128@retailcorp.com,2026-09-25T20:02:27,STORE-N11,North,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,UPI
+TXN-100136,CUST-1147,user_1147@retailcorp.com,2026-09-15T19:26:18,STORE-C51,Central,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,2.42,Cash
+TXN-100137,CUST-1117,user_1117@retailcorp.com,2026-09-24T10:15:27,STORE-N11,North,PROD-402,Cloud Native Architecture Guide,Books,49.99,2,0.0,PayPal
+TXN-100138,CUST-1079,user_1079@retailcorp.com,2026-09-19T11:04:32,STORE-S21,South,PROD-401,Designing Data-Intensive Applications,Books,45.0,2,0.0,Debit Card
+TXN-100139,CUST-1089,user_1089@retailcorp.com,2026-08-16T10:09:16,STORE-WEB1,Online,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,Credit Card
+TXN-100140,CUST-1045,user_1045@retailcorp.com,2026-09-13T18:41:40,STORE-W41,West,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,5,0.0,UPI
+TXN-100141,CUST-1038,user_1038@retailcorp.com,2026-08-29T19:19:50,STORE-N11,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,37.7,UPI
+TXN-100142,CUST-1118,user_1118@retailcorp.com,2026-08-24T13:04:41,STORE-N10,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,3,0.0,Cash
+TXN-100143,CUST-1129,user_1129@retailcorp.com,2026-08-29T21:36:41,STORE-W40,West,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Cash
+TXN-100144,CUST-1038,user_1038@retailcorp.com,2026-09-21T14:45:05,STORE-W40,West,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,139.37,PayPal
+TXN-100145,CUST-1112,user_1112@retailcorp.com,2026-09-28T13:24:26,STORE-E31,East,PROD-202,Women Merino Wool Sweater,Apparel,110.0,2,0.0,Credit Card
+TXN-100146,CUST-1085,user_1085@retailcorp.com,2026-09-05T19:24:18,STORE-E30,East,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,Cash
+TXN-100147,CUST-1038,user_1038@retailcorp.com,2026-09-12T11:58:22,STORE-N12,North,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,PayPal
+TXN-100148,CUST-1033,user_1033@retailcorp.com,2026-08-25T19:50:21,STORE-E32,East,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,3,0.0,Cash
+TXN-100149,CUST-1023,user_1023@retailcorp.com,2026-08-02T14:19:11,STORE-C51,Central,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,4,0.0,PayPal
+TXN-100150,CUST-1049,user_1049@retailcorp.com,2026-08-05T13:54:50,STORE-S20,South,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,Cash
+TXN-100151,CUST-1009,user_1009@retailcorp.com,2026-09-08T15:09:10,STORE-C50,Central,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,Cash
+TXN-100152,CUST-1042,user_1042@retailcorp.com,2026-08-24T19:46:15,STORE-N11,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,4,0.0,PayPal
+TXN-100153,CUST-1059,user_1059@retailcorp.com,2026-09-27T12:23:43,STORE-E31,East,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,4,0.0,PayPal
+TXN-100154,CUST-1072,user_1072@retailcorp.com,2026-08-11T12:51:38,STORE-C51,Central,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,5.55,UPI
+TXN-100155,CUST-1141,user_1141@retailcorp.com,2026-08-19T10:48:10,STORE-WEB1,Online,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,Debit Card
+TXN-100156,CUST-1111,user_1111@retailcorp.com,2026-09-26T14:59:01,STORE-S21,South,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,UPI
+TXN-100157,CUST-1060,user_1060@retailcorp.com,2026-08-15T09:20:59,STORE-N11,North,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,UPI
+TXN-100158,CUST-1037,user_1037@retailcorp.com,2026-09-28T16:44:53,STORE-N11,North,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,PayPal
+TXN-100159,CUST-1001,user_1001@retailcorp.com,2026-08-14T11:35:46,STORE-N11,North,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,2,0.0,UPI
+TXN-100160,CUST-1060,user_1060@retailcorp.com,2026-08-16T15:40:50,STORE-N10,North,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,87.4,PayPal
+TXN-100161,CUST-1137,user_1137@retailcorp.com,2026-09-15T11:18:27,STORE-WEB1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,Cash
+TXN-100162,CUST-1106,user_1106@retailcorp.com,2026-09-03T14:04:33,STORE-WEB1,Online,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,Cash
+TXN-100163,CUST-1141,user_1141@retailcorp.com,2026-08-03T19:24:23,STORE-W41,West,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,336.39,UPI
+TXN-100164,CUST-1061,user_1061@retailcorp.com,2026-08-09T09:22:34,STORE-C51,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,PayPal
+TXN-100165,CUST-1122,user_1122@retailcorp.com,2026-09-15T21:29:02,STORE-S20,South,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,8.79,Credit Card
+TXN-100166,CUST-1080,user_1080@retailcorp.com,2026-09-22T17:30:16,STORE-C51,Central,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,UPI
+TXN-100167,CUST-1091,user_1091@retailcorp.com,2026-08-18T10:51:23,STORE-APP1,Online,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,PayPal
+TXN-100168,CUST-1098,user_1098@retailcorp.com,2026-09-14T16:23:59,STORE-S21,South,PROD-401,Designing Data-Intensive Applications,Books,45.0,2,5.62,PayPal
+TXN-100169,CUST-1020,user_1020@retailcorp.com,2026-09-04T13:20:06,STORE-C50,Central,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,UPI
+TXN-100170,CUST-1114,user_1114@retailcorp.com,2026-08-23T16:02:46,STORE-S21,South,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,3,0.0,PayPal
+TXN-100171,CUST-1070,user_1070@retailcorp.com,2026-09-10T15:23:32,STORE-N12,North,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,3,0.0,Credit Card
+TXN-100172,CUST-1036,user_1036@retailcorp.com,2026-08-05T12:49:41,STORE-N10,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,0.0,Cash
+TXN-100173,CUST-1008,user_1008@retailcorp.com,2026-08-24T14:28:48,STORE-APP1,Online,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,9.35,UPI
+TXN-100174,CUST-1071,user_1071@retailcorp.com,2026-09-17T11:31:33,STORE-N10,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,UPI
+TXN-100175,CUST-1066,user_1066@retailcorp.com,2026-09-14T16:12:07,STORE-S21,South,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,22.69,PayPal
+TXN-100176,CUST-1022,user_1022@retailcorp.com,2026-09-15T10:35:34,STORE-APP1,Online,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,3.31,Debit Card
+TXN-100177,CUST-1092,user_1092@retailcorp.com,2026-09-20T11:15:50,STORE-N10,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,Cash
+TXN-100178,CUST-1094,user_1094@retailcorp.com,2026-09-09T10:04:19,STORE-C50,Central,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,0.0,PayPal
+TXN-100179,CUST-1134,user_1134@retailcorp.com,2026-08-09T14:41:04,STORE-W40,West,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,UPI
+TXN-100180,CUST-1032,user_1032@retailcorp.com,2026-09-02T09:53:07,STORE-S21,South,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,Debit Card
+TXN-100181,CUST-1082,user_1082@retailcorp.com,2026-09-27T13:54:05,STORE-E32,East,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,Cash
+TXN-100182,CUST-1070,user_1070@retailcorp.com,2026-09-09T17:05:32,STORE-APP1,Online,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,0.0,Cash
+TXN-100183,CUST-1039,user_1039@retailcorp.com,2026-09-23T18:02:52,STORE-APP1,Online,PROD-202,Women Merino Wool Sweater,Apparel,110.0,3,63.45,Cash
+TXN-100184,CUST-1067,user_1067@retailcorp.com,2026-09-09T19:01:31,STORE-C51,Central,PROD-203,Waterproof Hiking Boots,Apparel,145.0,3,0.0,UPI
+TXN-100185,CUST-1123,user_1123@retailcorp.com,2026-08-20T16:04:44,STORE-APP1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,PayPal
+TXN-100186,CUST-1118,user_1118@retailcorp.com,2026-08-10T14:55:45,STORE-E32,East,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,UPI
+TXN-100187,CUST-1102,user_1102@retailcorp.com,2026-09-05T10:20:15,STORE-E32,East,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,7.76,Credit Card
+TXN-100188,CUST-1012,user_1012@retailcorp.com,2026-08-16T11:52:20,STORE-W41,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,4,0.0,Debit Card
+TXN-100189,CUST-1040,user_1040@retailcorp.com,2026-09-01T13:31:01,STORE-C51,Central,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,PayPal
+TXN-100190,CUST-1061,user_1061@retailcorp.com,2026-08-04T09:18:31,STORE-C51,Central,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,0.0,PayPal
+TXN-100191,CUST-1073,user_1073@retailcorp.com,2026-08-09T13:46:23,STORE-N11,North,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,0.0,PayPal
+TXN-100192,CUST-1013,user_1013@retailcorp.com,2026-08-19T10:24:32,STORE-E32,East,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,Cash
+TXN-100193,CUST-1030,user_1030@retailcorp.com,2026-08-24T21:21:35,STORE-N11,North,PROD-201,Men Classic Denim Jacket,Apparel,89.0,4,0.0,Debit Card
+TXN-100194,CUST-1130,user_1130@retailcorp.com,2026-08-03T09:08:45,STORE-C50,Central,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,PayPal
+TXN-100195,CUST-1038,user_1038@retailcorp.com,2026-08-21T11:25:39,STORE-E32,East,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,17.88,Cash
+TXN-100196,CUST-1136,user_1136@retailcorp.com,2026-08-31T09:23:21,STORE-APP1,Online,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,0.0,Cash
+TXN-100197,CUST-1078,user_1078@retailcorp.com,2026-08-17T19:50:49,STORE-C51,Central,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,230.7,PayPal
+TXN-100198,CUST-1043,user_1043@retailcorp.com,2026-08-03T18:44:07,STORE-S20,South,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,PayPal
+TXN-100199,CUST-1038,user_1038@retailcorp.com,2026-08-27T17:49:39,STORE-WEB1,Online,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,4,0.0,Credit Card
+TXN-100200,CUST-1035,user_1035@retailcorp.com,2026-09-12T16:33:24,STORE-C51,Central,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,27.09,UPI
+TXN-100201,CUST-1139,user_1139@retailcorp.com,2026-09-09T16:12:15,STORE-APP1,Online,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,9.56,UPI
+TXN-100202,CUST-1073,user_1073@retailcorp.com,2026-08-21T16:22:35,STORE-APP1,Online,PROD-203,Waterproof Hiking Boots,Apparel,145.0,4,0.0,UPI
+TXN-100203,CUST-1073,user_1073@retailcorp.com,2026-09-27T15:52:22,STORE-C51,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,4,0.0,UPI
+TXN-100204,CUST-1010,user_1010@retailcorp.com,2026-08-23T16:41:16,STORE-WEB1,Online,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,86.75,UPI
+TXN-100205,CUST-1143,user_1143@retailcorp.com,2026-09-09T20:37:15,STORE-S20,South,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,Cash
+TXN-100206,CUST-1057,user_1057@retailcorp.com,2026-08-27T14:45:30,STORE-N10,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,Credit Card
+TXN-100207,CUST-1140,user_1140@retailcorp.com,2026-08-31T19:12:48,STORE-W41,West,PROD-202,Women Merino Wool Sweater,Apparel,110.0,4,0.0,Credit Card
+TXN-100208,CUST-1022,user_1022@retailcorp.com,2026-09-28T11:26:56,STORE-C50,Central,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,3,0.0,Credit Card
+TXN-100209,CUST-1101,user_1101@retailcorp.com,2026-09-26T09:00:19,STORE-S21,South,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,473.88,UPI
+TXN-100210,CUST-1116,user_1116@retailcorp.com,2026-08-18T12:51:07,STORE-S21,South,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,UPI
+TXN-100211,CUST-1047,user_1047@retailcorp.com,2026-09-20T13:36:43,STORE-APP1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,713.33,PayPal
+TXN-100212,CUST-1109,user_1109@retailcorp.com,2026-09-12T10:11:08,STORE-N11,North,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,Credit Card
+TXN-100213,CUST-1066,user_1066@retailcorp.com,2026-09-18T13:21:19,STORE-S21,South,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,0.0,UPI
+TXN-100214,CUST-1092,user_1092@retailcorp.com,2026-08-08T16:19:10,STORE-N12,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,UPI
+TXN-100215,CUST-1030,user_1030@retailcorp.com,2026-08-15T12:08:30,STORE-E32,East,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,Cash
+TXN-100216,CUST-1095,user_1095@retailcorp.com,2026-09-18T17:51:42,STORE-APP1,Online,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,3,0.0,Cash
+TXN-100217,CUST-1020,user_1020@retailcorp.com,2026-08-05T18:07:03,STORE-C51,Central,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,3,0.0,Debit Card
+TXN-100218,CUST-1146,user_1146@retailcorp.com,2026-09-24T17:28:07,STORE-S21,South,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,0.0,PayPal
+TXN-100219,CUST-1023,user_1023@retailcorp.com,2026-08-09T17:26:29,STORE-N11,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,0.0,UPI
+TXN-100220,CUST-1005,user_1005@retailcorp.com,2026-09-17T12:37:04,STORE-E30,East,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Credit Card
+TXN-100221,CUST-1138,user_1138@retailcorp.com,2026-08-03T13:26:11,STORE-N11,North,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,2,0.0,PayPal
+TXN-100222,CUST-1095,user_1095@retailcorp.com,2026-08-25T10:43:42,STORE-W41,West,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,3,20.41,Credit Card
+TXN-100223,CUST-1045,user_1045@retailcorp.com,2026-09-16T12:53:00,STORE-C50,Central,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,0.0,PayPal
+TXN-100224,CUST-1139,user_1139@retailcorp.com,2026-09-22T12:15:29,STORE-C51,Central,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,4.67,Credit Card
+TXN-100225,CUST-1008,user_1008@retailcorp.com,2026-08-16T12:04:06,STORE-C50,Central,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,0.0,Credit Card
+TXN-100226,CUST-1062,user_1062@retailcorp.com,2026-08-15T17:13:48,STORE-W41,West,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,3,602.43,UPI
+TXN-100227,CUST-1059,user_1059@retailcorp.com,2026-08-16T13:56:09,STORE-C51,Central,PROD-401,Designing Data-Intensive Applications,Books,45.0,5,0.0,PayPal
+TXN-100228,CUST-1076,user_1076@retailcorp.com,2026-09-07T20:58:11,STORE-N12,North,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,2,0.0,PayPal
+TXN-100229,CUST-1012,user_1012@retailcorp.com,2026-09-20T17:20:44,STORE-APP1,Online,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,5.32,Cash
+TXN-100230,CUST-1121,user_1121@retailcorp.com,2026-09-24T20:09:51,STORE-S21,South,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,21.15,PayPal
+TXN-100231,CUST-1142,user_1142@retailcorp.com,2026-08-17T12:21:41,STORE-W40,West,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,UPI
+TXN-100232,CUST-1023,user_1023@retailcorp.com,2026-08-25T19:38:38,STORE-N11,North,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,24.75,Cash
+TXN-100233,CUST-1143,user_1143@retailcorp.com,2026-09-25T14:19:58,STORE-W40,West,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,Credit Card
+TXN-100234,CUST-1122,user_1122@retailcorp.com,2026-08-26T12:35:20,STORE-WEB1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,0.0,Cash
+TXN-100235,CUST-1091,user_1091@retailcorp.com,2026-09-02T16:29:06,STORE-E31,East,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,3,0.0,UPI
+TXN-100236,CUST-1052,user_1052@retailcorp.com,2026-08-03T18:55:14,STORE-E31,East,PROD-402,Cloud Native Architecture Guide,Books,49.99,2,13.3,Cash
+TXN-100237,CUST-1148,user_1148@retailcorp.com,2026-08-13T14:14:24,STORE-E30,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,6.5,UPI
+TXN-100238,CUST-1065,user_1065@retailcorp.com,2026-08-30T11:46:50,STORE-APP1,Online,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,158.38,Debit Card
+TXN-100239,CUST-1138,user_1138@retailcorp.com,2026-09-23T10:52:42,STORE-C50,Central,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,112.93,Debit Card
+TXN-100240,CUST-1017,user_1017@retailcorp.com,2026-09-02T16:23:03,STORE-N10,North,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,0.0,Cash
+TXN-100241,CUST-1123,user_1123@retailcorp.com,2026-09-04T17:26:00,STORE-N10,North,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Cash
+TXN-100242,CUST-1073,user_1073@retailcorp.com,2026-09-21T11:06:58,STORE-C51,Central,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,157.5,Cash
+TXN-100243,CUST-1064,user_1064@retailcorp.com,2026-08-06T14:25:29,STORE-E31,East,PROD-402,Cloud Native Architecture Guide,Books,49.99,2,0.0,Debit Card
+TXN-100244,CUST-1076,user_1076@retailcorp.com,2026-08-06T15:24:24,STORE-WEB1,Online,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,2,41.03,Debit Card
+TXN-100245,CUST-1021,user_1021@retailcorp.com,2026-09-06T10:57:33,STORE-W41,West,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,3,666.69,Cash
+TXN-100246,CUST-1121,user_1121@retailcorp.com,2026-09-13T13:57:34,STORE-N10,North,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,2,30.29,UPI
+TXN-100247,CUST-1004,user_1004@retailcorp.com,2026-09-18T20:52:25,STORE-C50,Central,PROD-203,Waterproof Hiking Boots,Apparel,145.0,4,78.06,Cash
+TXN-100248,CUST-1099,user_1099@retailcorp.com,2026-09-20T20:46:05,STORE-W40,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,Credit Card
+TXN-100249,CUST-1025,user_1025@retailcorp.com,2026-08-22T18:49:39,STORE-S20,South,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,4,0.0,UPI
+TXN-100250,CUST-1007,user_1007@retailcorp.com,2026-08-15T14:35:24,STORE-W41,West,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,PayPal
+TXN-100251,CUST-1021,user_1021@retailcorp.com,2026-08-06T13:09:24,STORE-S20,South,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,0.0,PayPal
+TXN-100252,CUST-1081,user_1081@retailcorp.com,2026-08-01T13:28:23,STORE-N10,North,PROD-402,Cloud Native Architecture Guide,Books,49.99,2,6.31,PayPal
+TXN-100253,CUST-1114,user_1114@retailcorp.com,2026-08-06T14:35:05,STORE-N10,North,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,0.0,PayPal
+TXN-100254,CUST-1003,user_1003@retailcorp.com,2026-09-19T10:46:57,STORE-W41,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,0.0,Debit Card
+TXN-100255,CUST-1146,user_1146@retailcorp.com,2026-08-11T11:17:19,STORE-APP1,Online,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,8.26,UPI
+TXN-100256,CUST-1107,user_1107@retailcorp.com,2026-08-24T13:15:46,STORE-W40,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,0.0,Debit Card
+TXN-100257,CUST-1117,user_1117@retailcorp.com,2026-08-01T15:21:53,STORE-S21,South,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,UPI
+TXN-100258,CUST-1112,user_1112@retailcorp.com,2026-08-20T14:38:44,STORE-W40,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,PayPal
+TXN-100259,CUST-1081,user_1081@retailcorp.com,2026-09-06T21:15:20,STORE-APP1,Online,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,PayPal
+TXN-100260,CUST-1093,user_1093@retailcorp.com,2026-09-07T17:11:43,STORE-C50,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,158.76,Debit Card
+TXN-100261,CUST-1112,user_1112@retailcorp.com,2026-09-22T21:50:26,STORE-WEB1,Online,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,47.52,UPI
+TXN-100262,CUST-1039,user_1039@retailcorp.com,2026-08-29T18:30:37,STORE-W40,West,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,PayPal
+TXN-100263,CUST-1139,user_1139@retailcorp.com,2026-09-27T21:34:38,STORE-E32,East,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,2,528.77,UPI
+TXN-100264,CUST-1042,user_1042@retailcorp.com,2026-09-18T14:50:27,STORE-C51,Central,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,133.2,Cash
+TXN-100265,CUST-1142,user_1142@retailcorp.com,2026-08-26T16:49:43,STORE-W41,West,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,0.0,UPI
+TXN-100266,CUST-1006,user_1006@retailcorp.com,2026-08-27T10:07:53,STORE-N11,North,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,4,464.56,PayPal
+TXN-100267,CUST-1052,user_1052@retailcorp.com,2026-08-07T16:46:44,STORE-E31,East,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,68.04,Credit Card
+TXN-100268,CUST-1005,user_1005@retailcorp.com,2026-09-13T21:10:59,STORE-WEB1,Online,PROD-401,Designing Data-Intensive Applications,Books,45.0,5,17.14,Debit Card
+TXN-100269,CUST-1084,user_1084@retailcorp.com,2026-09-21T15:40:11,STORE-W40,West,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,PayPal
+TXN-100270,CUST-1007,user_1007@retailcorp.com,2026-08-25T09:45:13,STORE-W41,West,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,Credit Card
+TXN-100271,CUST-1147,user_1147@retailcorp.com,2026-08-24T14:12:29,STORE-C50,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,PayPal
+TXN-100272,CUST-1135,user_1135@retailcorp.com,2026-09-09T15:37:07,STORE-C51,Central,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,Cash
+TXN-100273,CUST-1044,user_1044@retailcorp.com,2026-09-13T11:20:07,STORE-C50,Central,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,26.39,Debit Card
+TXN-100274,CUST-1130,user_1130@retailcorp.com,2026-09-06T15:27:11,STORE-W40,West,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Debit Card
+TXN-100275,CUST-1142,user_1142@retailcorp.com,2026-08-09T11:20:53,STORE-W41,West,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,11.42,Credit Card
+TXN-100276,CUST-1124,user_1124@retailcorp.com,2026-09-05T17:41:31,STORE-S21,South,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,PayPal
+TXN-100277,CUST-1125,user_1125@retailcorp.com,2026-08-02T21:48:14,STORE-N12,North,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,14.37,Debit Card
+TXN-100278,CUST-1117,user_1117@retailcorp.com,2026-09-06T10:17:49,STORE-C50,Central,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Cash
+TXN-100279,CUST-1010,user_1010@retailcorp.com,2026-08-28T10:47:53,STORE-C50,Central,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,108.37,Credit Card
+TXN-100280,CUST-1115,user_1115@retailcorp.com,2026-08-29T10:49:51,STORE-E30,East,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,Cash
+TXN-100281,CUST-1089,user_1089@retailcorp.com,2026-09-20T12:52:13,STORE-S20,South,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,3,0.0,Cash
+TXN-100282,CUST-1071,user_1071@retailcorp.com,2026-08-19T13:36:17,STORE-E32,East,PROD-202,Women Merino Wool Sweater,Apparel,110.0,4,0.0,Credit Card
+TXN-100283,CUST-1034,user_1034@retailcorp.com,2026-09-25T19:08:44,STORE-N11,North,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,3,11.52,Debit Card
+TXN-100284,CUST-1100,user_1100@retailcorp.com,2026-09-10T15:24:28,STORE-S21,South,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Credit Card
+TXN-100285,CUST-1103,user_1103@retailcorp.com,2026-08-30T16:20:37,STORE-APP1,Online,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,Credit Card
+TXN-100286,CUST-1117,user_1117@retailcorp.com,2026-08-26T12:27:52,STORE-N12,North,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,8.71,UPI
+TXN-100287,CUST-1140,user_1140@retailcorp.com,2026-09-20T14:57:43,STORE-C51,Central,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,25.62,PayPal
+TXN-100288,CUST-1004,user_1004@retailcorp.com,2026-08-30T09:27:12,STORE-S21,South,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,5,0.0,UPI
+TXN-100289,CUST-1040,user_1040@retailcorp.com,2026-08-24T13:05:23,STORE-N12,North,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,2,0.0,Credit Card
+TXN-100290,CUST-1101,user_1101@retailcorp.com,2026-08-28T19:05:45,STORE-WEB1,Online,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,15.36,Cash
+TXN-100291,CUST-1057,user_1057@retailcorp.com,2026-09-14T14:52:07,STORE-N10,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,5,0.0,Debit Card
+TXN-100292,CUST-1122,user_1122@retailcorp.com,2026-08-06T20:51:06,STORE-S21,South,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,UPI
+TXN-100293,CUST-1035,user_1035@retailcorp.com,2026-08-05T17:36:00,STORE-S20,South,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,7.8,Debit Card
+TXN-100294,CUST-1038,user_1038@retailcorp.com,2026-09-25T12:05:57,STORE-C51,Central,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,Cash
+TXN-100295,CUST-1098,user_1098@retailcorp.com,2026-09-20T11:15:17,STORE-W41,West,PROD-402,Cloud Native Architecture Guide,Books,49.99,2,14.01,Cash
+TXN-100296,CUST-1072,user_1072@retailcorp.com,2026-08-14T17:38:32,STORE-APP1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,Credit Card
+TXN-100297,CUST-1061,user_1061@retailcorp.com,2026-08-16T16:40:38,STORE-W40,West,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Credit Card
+TXN-100298,CUST-1092,user_1092@retailcorp.com,2026-09-25T18:26:23,STORE-S21,South,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,5.43,Credit Card
+TXN-100299,CUST-1004,user_1004@retailcorp.com,2026-08-14T09:59:03,STORE-N11,North,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,4,0.0,UPI
+TXN-100300,CUST-1128,user_1128@retailcorp.com,2026-08-06T19:34:34,STORE-W41,West,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,4.73,Cash
+TXN-100301,CUST-1052,user_1052@retailcorp.com,2026-08-26T18:40:48,STORE-C51,Central,PROD-201,Men Classic Denim Jacket,Apparel,89.0,3,0.0,Credit Card
+TXN-100302,CUST-1079,user_1079@retailcorp.com,2026-08-04T12:05:59,STORE-WEB1,Online,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,Cash
+TXN-100303,CUST-1014,user_1014@retailcorp.com,2026-08-08T09:45:08,STORE-WEB1,Online,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,96.09,Cash
+TXN-100304,CUST-1132,user_1132@retailcorp.com,2026-08-09T20:49:55,STORE-S21,South,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,Credit Card
+TXN-100305,CUST-1085,user_1085@retailcorp.com,2026-08-05T13:45:36,STORE-E32,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,0.0,Cash
+TXN-100306,CUST-1092,user_1092@retailcorp.com,2026-08-24T11:16:49,STORE-W40,West,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,Credit Card
+TXN-100307,CUST-1058,user_1058@retailcorp.com,2026-08-16T09:30:23,STORE-N10,North,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,379.16,Credit Card
+TXN-100308,CUST-1141,user_1141@retailcorp.com,2026-08-16T15:58:46,STORE-S21,South,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,Cash
+TXN-100309,CUST-1095,user_1095@retailcorp.com,2026-08-12T12:51:33,STORE-C50,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,5,0.0,Credit Card
+TXN-100310,CUST-1119,user_1119@retailcorp.com,2026-08-06T17:29:00,STORE-E31,East,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,41.75,Cash
+TXN-100311,CUST-1062,user_1062@retailcorp.com,2026-09-01T21:49:12,STORE-E32,East,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,0.0,Debit Card
+TXN-100312,CUST-1038,user_1038@retailcorp.com,2026-08-15T17:22:40,STORE-W40,West,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,3,0.0,UPI
+TXN-100313,CUST-1000,user_1000@retailcorp.com,2026-08-07T12:33:15,STORE-APP1,Online,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Debit Card
+TXN-100314,CUST-1071,user_1071@retailcorp.com,2026-09-27T17:26:44,STORE-N10,North,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,3,0.0,Credit Card
+TXN-100315,CUST-1148,user_1148@retailcorp.com,2026-09-10T15:04:37,STORE-C50,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,Debit Card
+TXN-100316,CUST-1060,user_1060@retailcorp.com,2026-09-29T21:25:44,STORE-E31,East,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,3,0.0,PayPal
+TXN-100317,CUST-1069,user_1069@retailcorp.com,2026-08-09T21:49:37,STORE-N10,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,22.2,UPI
+TXN-100318,CUST-1104,user_1104@retailcorp.com,2026-09-19T12:28:19,STORE-C51,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,Credit Card
+TXN-100319,CUST-1040,user_1040@retailcorp.com,2026-08-14T14:09:05,STORE-WEB1,Online,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,0.0,PayPal
+TXN-100320,CUST-1131,user_1131@retailcorp.com,2026-08-17T11:01:25,STORE-APP1,Online,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,3,0.0,Cash
+TXN-100321,CUST-1063,user_1063@retailcorp.com,2026-09-21T21:08:07,STORE-W40,West,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,Debit Card
+TXN-100322,CUST-1033,user_1033@retailcorp.com,2026-09-13T19:41:05,STORE-W41,West,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,49.85,Credit Card
+TXN-100323,CUST-1016,user_1016@retailcorp.com,2026-09-21T11:05:57,STORE-APP1,Online,PROD-203,Waterproof Hiking Boots,Apparel,145.0,3,0.0,Credit Card
+TXN-100324,CUST-1010,user_1010@retailcorp.com,2026-09-29T18:27:52,STORE-N10,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,0.0,PayPal
+TXN-100325,CUST-1109,user_1109@retailcorp.com,2026-09-28T11:17:17,STORE-E30,East,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,15.63,Cash
+TXN-100326,CUST-1062,user_1062@retailcorp.com,2026-09-26T17:30:03,STORE-W41,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,PayPal
+TXN-100327,CUST-1051,user_1051@retailcorp.com,2026-08-25T21:45:22,STORE-WEB1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,UPI
+TXN-100328,CUST-1144,user_1144@retailcorp.com,2026-08-12T09:20:38,STORE-W41,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,UPI
+TXN-100329,CUST-1014,user_1014@retailcorp.com,2026-09-19T18:14:10,STORE-C51,Central,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,UPI
+TXN-100330,CUST-1136,user_1136@retailcorp.com,2026-08-23T11:11:15,STORE-S21,South,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,2,0.0,UPI
+TXN-100331,CUST-1007,user_1007@retailcorp.com,2026-09-06T12:53:51,STORE-C50,Central,PROD-402,Cloud Native Architecture Guide,Books,49.99,3,0.0,UPI
+TXN-100332,CUST-1044,user_1044@retailcorp.com,2026-08-04T12:38:14,STORE-N10,North,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,UPI
+TXN-100333,CUST-1051,user_1051@retailcorp.com,2026-08-12T21:54:55,STORE-E32,East,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,12.28,Debit Card
+TXN-100334,CUST-1028,user_1028@retailcorp.com,2026-09-15T19:25:37,STORE-N11,North,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,Debit Card
+TXN-100335,CUST-1040,user_1040@retailcorp.com,2026-09-11T14:11:45,STORE-APP1,Online,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,4,0.0,Cash
+TXN-100336,CUST-1091,user_1091@retailcorp.com,2026-08-25T13:46:44,STORE-WEB1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,9.5,Cash
+TXN-100337,CUST-1100,user_1100@retailcorp.com,2026-09-28T21:39:14,STORE-S21,South,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,2,397.92,UPI
+TXN-100338,CUST-1019,user_1019@retailcorp.com,2026-08-11T19:56:05,STORE-E31,East,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,3,0.0,UPI
+TXN-100339,CUST-1114,user_1114@retailcorp.com,2026-08-16T20:04:22,STORE-E30,East,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,100.33,PayPal
+TXN-100340,CUST-1112,user_1112@retailcorp.com,2026-09-01T15:22:34,STORE-S21,South,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,Cash
+TXN-100341,CUST-1057,user_1057@retailcorp.com,2026-09-21T09:18:01,STORE-W40,West,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,Credit Card
+TXN-100342,CUST-1087,user_1087@retailcorp.com,2026-09-16T10:35:57,STORE-W40,West,PROD-202,Women Merino Wool Sweater,Apparel,110.0,5,0.0,Cash
+TXN-100343,CUST-1123,user_1123@retailcorp.com,2026-09-08T15:10:03,STORE-W40,West,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,156.92,Cash
+TXN-100344,CUST-1138,user_1138@retailcorp.com,2026-08-20T12:06:03,STORE-APP1,Online,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,PayPal
+TXN-100345,CUST-1039,user_1039@retailcorp.com,2026-08-28T10:18:52,STORE-E30,East,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,2,0.0,Debit Card
+TXN-100346,CUST-1024,user_1024@retailcorp.com,2026-09-10T13:05:30,STORE-S20,South,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,3,0.0,PayPal
+TXN-100347,CUST-1120,user_1120@retailcorp.com,2026-08-06T19:34:24,STORE-APP1,Online,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,UPI
+TXN-100348,CUST-1047,user_1047@retailcorp.com,2026-08-29T16:16:14,STORE-N11,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,3,0.0,Debit Card
+TXN-100349,CUST-1024,user_1024@retailcorp.com,2026-09-21T17:26:48,STORE-APP1,Online,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,2,0.0,PayPal
+TXN-100350,CUST-1133,user_1133@retailcorp.com,2026-09-06T12:30:19,STORE-C51,Central,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,Credit Card
+TXN-100351,CUST-1128,user_1128@retailcorp.com,2026-08-12T11:13:51,STORE-N11,North,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,5.5,PayPal
+TXN-100352,CUST-1051,user_1051@retailcorp.com,2026-08-21T20:58:51,STORE-C51,Central,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,PayPal
+TXN-100353,CUST-1141,user_1141@retailcorp.com,2026-08-30T09:50:44,STORE-E32,East,PROD-401,Designing Data-Intensive Applications,Books,45.0,2,0.0,PayPal
+TXN-100354,CUST-1028,user_1028@retailcorp.com,2026-09-06T18:37:48,STORE-S20,South,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,4,6.45,Credit Card
+TXN-100355,CUST-1073,user_1073@retailcorp.com,2026-08-25T19:31:36,STORE-W41,West,PROD-402,Cloud Native Architecture Guide,Books,49.99,2,9.13,Debit Card
+TXN-100356,CUST-1102,user_1102@retailcorp.com,2026-09-14T12:03:47,STORE-W41,West,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,169.28,UPI
+TXN-100357,CUST-1077,user_1077@retailcorp.com,2026-09-24T20:43:06,STORE-E31,East,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,5,118.36,PayPal
+TXN-100358,CUST-1082,user_1082@retailcorp.com,2026-09-08T19:05:12,STORE-APP1,Online,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,PayPal
+TXN-100359,CUST-1124,user_1124@retailcorp.com,2026-09-20T11:04:19,STORE-N12,North,PROD-402,Cloud Native Architecture Guide,Books,49.99,2,0.0,Cash
+TXN-100360,CUST-1145,user_1145@retailcorp.com,2026-09-26T12:53:03,STORE-S20,South,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,UPI
+TXN-100361,CUST-1050,user_1050@retailcorp.com,2026-09-02T15:40:59,STORE-E31,East,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,8.47,Cash
+TXN-100362,CUST-1114,user_1114@retailcorp.com,2026-08-23T11:53:57,STORE-W41,West,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,Credit Card
+TXN-100363,CUST-1072,user_1072@retailcorp.com,2026-08-11T18:49:13,STORE-W40,West,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,3,0.0,Debit Card
+TXN-100364,CUST-1068,user_1068@retailcorp.com,2026-09-25T21:49:43,STORE-C50,Central,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,Debit Card
+TXN-100365,CUST-1002,user_1002@retailcorp.com,2026-09-21T13:45:45,STORE-E32,East,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,0.0,PayPal
+TXN-100366,CUST-1089,user_1089@retailcorp.com,2026-08-30T13:43:33,STORE-E30,East,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,3,0.0,Credit Card
+TXN-100367,CUST-1001,user_1001@retailcorp.com,2026-08-20T19:06:30,STORE-C51,Central,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,UPI
+TXN-100368,CUST-1070,user_1070@retailcorp.com,2026-08-13T11:33:48,STORE-APP1,Online,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,14.29,Cash
+TXN-100369,CUST-1103,user_1103@retailcorp.com,2026-09-16T09:41:31,STORE-WEB1,Online,PROD-401,Designing Data-Intensive Applications,Books,45.0,5,25.38,PayPal
+TXN-100370,CUST-1009,user_1009@retailcorp.com,2026-09-15T12:43:34,STORE-E32,East,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,0.0,UPI
+TXN-100371,CUST-1129,user_1129@retailcorp.com,2026-08-19T10:30:08,STORE-S20,South,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,0.0,Cash
+TXN-100372,CUST-1046,user_1046@retailcorp.com,2026-08-15T14:14:47,STORE-WEB1,Online,PROD-401,Designing Data-Intensive Applications,Books,45.0,3,0.0,UPI
+TXN-100373,CUST-1095,user_1095@retailcorp.com,2026-08-30T10:30:03,STORE-C51,Central,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,3,0.0,Cash
+TXN-100374,CUST-1018,user_1018@retailcorp.com,2026-09-25T19:24:33,STORE-S20,South,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,213.76,Debit Card
+TXN-100375,CUST-1051,user_1051@retailcorp.com,2026-08-10T14:55:45,STORE-W41,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,4.5,Debit Card
+TXN-100376,CUST-1080,user_1080@retailcorp.com,2026-08-18T12:48:49,STORE-N11,North,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,PayPal
+TXN-100377,CUST-1022,user_1022@retailcorp.com,2026-09-10T15:25:27,STORE-C51,Central,PROD-201,Men Classic Denim Jacket,Apparel,89.0,4,0.0,Credit Card
+TXN-100378,CUST-1136,user_1136@retailcorp.com,2026-08-01T14:48:53,STORE-APP1,Online,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,7.34,Debit Card
+TXN-100379,CUST-1057,user_1057@retailcorp.com,2026-08-07T15:32:37,STORE-E30,East,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,2.84,UPI
+TXN-100380,CUST-1116,user_1116@retailcorp.com,2026-08-22T16:22:48,STORE-W40,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,PayPal
+TXN-100381,CUST-1004,user_1004@retailcorp.com,2026-08-14T20:01:37,STORE-S20,South,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,29.61,Credit Card
+TXN-100382,CUST-1096,user_1096@retailcorp.com,2026-09-08T09:42:06,STORE-C50,Central,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,2,24.55,PayPal
+TXN-100383,CUST-1113,user_1113@retailcorp.com,2026-08-17T16:44:09,STORE-N12,North,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Credit Card
+TXN-100384,CUST-1077,user_1077@retailcorp.com,2026-09-12T17:17:39,STORE-WEB1,Online,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,8.56,Credit Card
+TXN-100385,CUST-1130,user_1130@retailcorp.com,2026-09-20T10:31:12,STORE-E30,East,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,Cash
+TXN-100386,CUST-1051,user_1051@retailcorp.com,2026-08-19T11:02:35,STORE-APP1,Online,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,9.5,UPI
+TXN-100387,CUST-1060,user_1060@retailcorp.com,2026-08-06T10:53:36,STORE-N12,North,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,253.92,Cash
+TXN-100388,CUST-1019,user_1019@retailcorp.com,2026-08-15T16:18:16,STORE-E32,East,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,38.03,Credit Card
+TXN-100389,CUST-1074,user_1074@retailcorp.com,2026-08-28T20:07:06,STORE-APP1,Online,PROD-402,Cloud Native Architecture Guide,Books,49.99,3,0.0,Credit Card
+TXN-100390,CUST-1035,user_1035@retailcorp.com,2026-09-27T16:39:17,STORE-E31,East,PROD-202,Women Merino Wool Sweater,Apparel,110.0,3,56.84,Debit Card
+TXN-100391,CUST-1029,user_1029@retailcorp.com,2026-08-18T15:44:54,STORE-W41,West,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Debit Card
+TXN-100392,CUST-1028,user_1028@retailcorp.com,2026-09-24T11:06:26,STORE-WEB1,Online,PROD-201,Men Classic Denim Jacket,Apparel,89.0,3,0.0,Cash
+TXN-100393,CUST-1112,user_1112@retailcorp.com,2026-09-19T14:39:01,STORE-C51,Central,PROD-202,Women Merino Wool Sweater,Apparel,110.0,3,0.0,Debit Card
+TXN-100394,CUST-1123,user_1123@retailcorp.com,2026-08-29T09:04:16,STORE-N11,North,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,432.6,Cash
+TXN-100395,CUST-1147,user_1147@retailcorp.com,2026-09-03T17:44:44,STORE-APP1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,0.0,Debit Card
+TXN-100396,CUST-1123,user_1123@retailcorp.com,2026-08-10T17:57:39,STORE-APP1,Online,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,Debit Card
+TXN-100397,CUST-1129,user_1129@retailcorp.com,2026-08-05T21:31:20,STORE-W40,West,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Credit Card
+TXN-100398,CUST-1129,user_1129@retailcorp.com,2026-08-26T12:05:29,STORE-C51,Central,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,Credit Card
+TXN-100399,CUST-1127,user_1127@retailcorp.com,2026-09-01T20:41:01,STORE-E30,East,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,0.0,Cash
+TXN-100400,CUST-1140,user_1140@retailcorp.com,2026-09-09T19:19:56,STORE-N12,North,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,301.29,UPI
+TXN-100401,CUST-1093,user_1093@retailcorp.com,2026-08-22T17:49:39,STORE-S21,South,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,2,0.0,UPI
+TXN-100402,CUST-1115,user_1115@retailcorp.com,2026-08-15T09:21:22,STORE-N12,North,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,3,0.0,UPI
+TXN-100403,CUST-1140,user_1140@retailcorp.com,2026-08-03T11:31:08,STORE-WEB1,Online,PROD-402,Cloud Native Architecture Guide,Books,49.99,3,0.0,PayPal
+TXN-100404,CUST-1027,user_1027@retailcorp.com,2026-08-13T10:59:54,STORE-C50,Central,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,Debit Card
+TXN-100405,CUST-1086,user_1086@retailcorp.com,2026-09-29T19:53:43,STORE-W40,West,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,PayPal
+TXN-100406,CUST-1117,user_1117@retailcorp.com,2026-09-03T20:03:35,STORE-W40,West,PROD-201,Men Classic Denim Jacket,Apparel,89.0,4,0.0,PayPal
+TXN-100407,CUST-1130,user_1130@retailcorp.com,2026-09-16T11:06:24,STORE-WEB1,Online,PROD-202,Women Merino Wool Sweater,Apparel,110.0,2,0.0,UPI
+TXN-100408,CUST-1129,user_1129@retailcorp.com,2026-08-18T15:21:18,STORE-W40,West,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,4.25,Cash
+TXN-100409,CUST-1076,user_1076@retailcorp.com,2026-08-13T12:39:45,STORE-WEB1,Online,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,Debit Card
+TXN-100410,CUST-1045,user_1045@retailcorp.com,2026-09-18T14:35:30,STORE-WEB1,Online,PROD-401,Designing Data-Intensive Applications,Books,45.0,2,0.0,PayPal
+TXN-100411,CUST-1136,user_1136@retailcorp.com,2026-09-03T10:01:24,STORE-W40,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,Debit Card
+TXN-100412,CUST-1068,user_1068@retailcorp.com,2026-08-17T11:53:03,STORE-E32,East,PROD-202,Women Merino Wool Sweater,Apparel,110.0,2,35.87,Credit Card
+TXN-100413,CUST-1091,user_1091@retailcorp.com,2026-09-25T19:47:35,STORE-N12,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,3,0.0,Cash
+TXN-100414,CUST-1099,user_1099@retailcorp.com,2026-09-14T19:03:59,STORE-C51,Central,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,UPI
+TXN-100415,CUST-1141,user_1141@retailcorp.com,2026-08-17T12:39:55,STORE-N12,North,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,2,0.0,Debit Card
+TXN-100416,CUST-1094,user_1094@retailcorp.com,2026-08-19T16:11:43,STORE-WEB1,Online,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,Cash
+TXN-100417,CUST-1030,user_1030@retailcorp.com,2026-08-18T17:16:08,STORE-N11,North,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Credit Card
+TXN-100418,CUST-1084,user_1084@retailcorp.com,2026-08-03T11:59:20,STORE-WEB1,Online,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,0.0,Cash
+TXN-100419,CUST-1077,user_1077@retailcorp.com,2026-08-05T21:45:20,STORE-C51,Central,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Cash
+TXN-100420,CUST-1017,user_1017@retailcorp.com,2026-08-06T14:14:56,STORE-W41,West,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,UPI
+TXN-100421,CUST-1075,user_1075@retailcorp.com,2026-09-05T21:41:00,STORE-C51,Central,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,Debit Card
+TXN-100422,CUST-1062,user_1062@retailcorp.com,2026-08-25T21:07:24,STORE-APP1,Online,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,Credit Card
+TXN-100423,CUST-1132,user_1132@retailcorp.com,2026-09-01T09:18:57,STORE-C51,Central,PROD-402,Cloud Native Architecture Guide,Books,49.99,2,0.0,Credit Card
+TXN-100424,CUST-1024,user_1024@retailcorp.com,2026-09-10T10:13:42,STORE-C50,Central,PROD-202,Women Merino Wool Sweater,Apparel,110.0,2,33.62,Credit Card
+TXN-100425,CUST-1052,user_1052@retailcorp.com,2026-09-17T19:09:01,STORE-WEB1,Online,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,Credit Card
+TXN-100426,CUST-1018,user_1018@retailcorp.com,2026-09-05T10:36:52,STORE-S21,South,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,173.02,PayPal
+TXN-100427,CUST-1110,user_1110@retailcorp.com,2026-09-13T10:34:00,STORE-N11,North,PROD-401,Designing Data-Intensive Applications,Books,45.0,2,0.0,Cash
+TXN-100428,CUST-1011,user_1011@retailcorp.com,2026-08-07T13:50:43,STORE-E32,East,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,65.75,PayPal
+TXN-100429,CUST-1097,user_1097@retailcorp.com,2026-08-31T11:34:14,STORE-WEB1,Online,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Cash
+TXN-100430,CUST-1075,user_1075@retailcorp.com,2026-09-26T21:55:46,STORE-E32,East,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,0.0,Credit Card
+TXN-100431,CUST-1141,user_1141@retailcorp.com,2026-08-01T18:38:25,STORE-N10,North,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,UPI
+TXN-100432,CUST-1053,user_1053@retailcorp.com,2026-09-27T19:54:32,STORE-S21,South,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,7.13,UPI
+TXN-100433,CUST-1049,user_1049@retailcorp.com,2026-09-24T21:59:35,STORE-S20,South,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,UPI
+TXN-100434,CUST-1017,user_1017@retailcorp.com,2026-09-16T18:31:21,STORE-N10,North,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,Debit Card
+TXN-100435,CUST-1025,user_1025@retailcorp.com,2026-09-27T12:20:31,STORE-C50,Central,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,UPI
+TXN-100436,CUST-1149,user_1149@retailcorp.com,2026-09-21T14:27:10,STORE-C51,Central,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,7.41,PayPal
+TXN-100437,CUST-1070,user_1070@retailcorp.com,2026-09-26T16:29:28,STORE-S21,South,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,Cash
+TXN-100438,CUST-1027,user_1027@retailcorp.com,2026-09-23T13:54:52,STORE-WEB1,Online,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,UPI
+TXN-100439,CUST-1019,user_1019@retailcorp.com,2026-09-10T09:52:37,STORE-N12,North,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,2,0.0,Debit Card
+TXN-100440,CUST-1009,user_1009@retailcorp.com,2026-09-11T21:09:23,STORE-C51,Central,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,Cash
+TXN-100441,CUST-1074,user_1074@retailcorp.com,2026-08-26T14:32:00,STORE-W40,West,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,0.0,Cash
+TXN-100442,CUST-1042,user_1042@retailcorp.com,2026-08-12T18:36:42,STORE-W40,West,PROD-201,Men Classic Denim Jacket,Apparel,89.0,3,42.67,UPI
+TXN-100443,CUST-1010,user_1010@retailcorp.com,2026-08-05T13:23:14,STORE-W40,West,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,35.18,UPI
+TXN-100444,CUST-1099,user_1099@retailcorp.com,2026-08-03T19:20:06,STORE-W40,West,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,0.0,UPI
+TXN-100445,CUST-1067,user_1067@retailcorp.com,2026-08-24T18:41:57,STORE-W41,West,PROD-202,Women Merino Wool Sweater,Apparel,110.0,3,0.0,PayPal
+TXN-100446,CUST-1057,user_1057@retailcorp.com,2026-09-01T21:30:56,STORE-E31,East,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,0.0,Debit Card
+TXN-100447,CUST-1112,user_1112@retailcorp.com,2026-09-02T19:17:13,STORE-S20,South,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,15.43,Credit Card
+TXN-100448,CUST-1058,user_1058@retailcorp.com,2026-08-08T16:43:30,STORE-E32,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,PayPal
+TXN-100449,CUST-1005,user_1005@retailcorp.com,2026-09-06T18:10:08,STORE-N10,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,51.35,Credit Card
+TXN-100450,CUST-1042,user_1042@retailcorp.com,2026-09-08T18:40:01,STORE-S21,South,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,3,0.0,UPI
+TXN-100451,CUST-1021,user_1021@retailcorp.com,2026-09-25T16:10:14,STORE-W41,West,PROD-203,Waterproof Hiking Boots,Apparel,145.0,3,0.0,Cash
+TXN-100452,CUST-1046,user_1046@retailcorp.com,2026-09-29T16:38:37,STORE-S21,South,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,Debit Card
+TXN-100453,CUST-1027,user_1027@retailcorp.com,2026-09-22T11:38:06,STORE-S21,South,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,Cash
+TXN-100454,CUST-1009,user_1009@retailcorp.com,2026-09-12T11:57:38,STORE-N11,North,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,95.14,PayPal
+TXN-100455,CUST-1133,user_1133@retailcorp.com,2026-09-14T17:27:14,STORE-E30,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,4,0.0,PayPal
+TXN-100456,CUST-1089,user_1089@retailcorp.com,2026-08-17T16:49:14,STORE-W40,West,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,3,209.2,Cash
+TXN-100457,CUST-1104,user_1104@retailcorp.com,2026-09-15T20:50:00,STORE-S20,South,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,2,8.17,Debit Card
+TXN-100458,CUST-1080,user_1080@retailcorp.com,2026-08-10T15:41:37,STORE-E30,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,PayPal
+TXN-100459,CUST-1144,user_1144@retailcorp.com,2026-09-13T15:48:13,STORE-C51,Central,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,PayPal
+TXN-100460,CUST-1045,user_1045@retailcorp.com,2026-08-17T13:36:22,STORE-C51,Central,PROD-402,Cloud Native Architecture Guide,Books,49.99,2,0.0,Debit Card
+TXN-100461,CUST-1030,user_1030@retailcorp.com,2026-08-07T12:32:25,STORE-W40,West,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,0.0,Cash
+TXN-100462,CUST-1013,user_1013@retailcorp.com,2026-09-21T10:52:09,STORE-W40,West,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,Credit Card
+TXN-100463,CUST-1016,user_1016@retailcorp.com,2026-08-06T18:02:46,STORE-S21,South,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,Cash
+TXN-100464,CUST-1133,user_1133@retailcorp.com,2026-09-19T11:40:31,STORE-WEB1,Online,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,36.98,Cash
+TXN-100465,CUST-1073,user_1073@retailcorp.com,2026-09-02T17:44:14,STORE-N12,North,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,0.0,UPI
+TXN-100466,CUST-1061,user_1061@retailcorp.com,2026-08-18T21:25:22,STORE-S20,South,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,0.0,Debit Card
+TXN-100467,CUST-1132,user_1132@retailcorp.com,2026-09-28T10:35:18,STORE-WEB1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,0.0,Cash
+TXN-100468,CUST-1089,user_1089@retailcorp.com,2026-09-08T12:29:59,STORE-E30,East,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,3.81,Cash
+TXN-100469,CUST-1027,user_1027@retailcorp.com,2026-08-22T10:51:32,STORE-C51,Central,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,4,0.0,Cash
+TXN-100470,CUST-1064,user_1064@retailcorp.com,2026-09-19T12:48:21,STORE-W41,West,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,4,0.0,PayPal
+TXN-100471,CUST-1007,user_1007@retailcorp.com,2026-08-05T15:40:50,STORE-N11,North,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,5,0.0,Debit Card
+TXN-100472,CUST-1080,user_1080@retailcorp.com,2026-09-04T09:44:53,STORE-E32,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,2.69,UPI
+TXN-100473,CUST-1019,user_1019@retailcorp.com,2026-08-23T12:57:36,STORE-W41,West,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,Debit Card
+TXN-100474,CUST-1127,user_1127@retailcorp.com,2026-09-25T13:13:14,STORE-S20,South,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,20.7,Debit Card
+TXN-100475,CUST-1027,user_1027@retailcorp.com,2026-09-12T16:39:00,STORE-N12,North,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,Credit Card
+TXN-100476,CUST-1123,user_1123@retailcorp.com,2026-09-01T18:55:17,STORE-C51,Central,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,Cash
+TXN-100477,CUST-1071,user_1071@retailcorp.com,2026-08-04T17:51:27,STORE-S20,South,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Cash
+TXN-100478,CUST-1088,user_1088@retailcorp.com,2026-08-30T10:44:33,STORE-WEB1,Online,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Credit Card
+TXN-100479,CUST-1053,user_1053@retailcorp.com,2026-08-21T14:39:55,STORE-C50,Central,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Debit Card
+TXN-100480,CUST-1068,user_1068@retailcorp.com,2026-08-24T11:31:27,STORE-C51,Central,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,UPI
+TXN-100481,CUST-1093,user_1093@retailcorp.com,2026-08-12T18:08:36,STORE-E31,East,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,0.0,UPI
+TXN-100482,CUST-1060,user_1060@retailcorp.com,2026-08-10T21:47:09,STORE-W40,West,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,2.77,Debit Card
+TXN-100483,CUST-1132,user_1132@retailcorp.com,2026-08-17T17:54:36,STORE-W41,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,3.35,Debit Card
+TXN-100484,CUST-1065,user_1065@retailcorp.com,2026-08-29T20:21:16,STORE-WEB1,Online,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,UPI
+TXN-100485,CUST-1088,user_1088@retailcorp.com,2026-08-23T19:38:12,STORE-W40,West,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,0.0,Cash
+TXN-100486,CUST-1044,user_1044@retailcorp.com,2026-09-13T17:31:49,STORE-E31,East,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,0.0,PayPal
+TXN-100487,CUST-1073,user_1073@retailcorp.com,2026-09-25T11:40:51,STORE-WEB1,Online,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,4,0.0,Cash
+TXN-100488,CUST-1146,user_1146@retailcorp.com,2026-08-11T14:14:20,STORE-N10,North,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,3.42,PayPal
+TXN-100489,CUST-1069,user_1069@retailcorp.com,2026-09-07T17:28:26,STORE-E32,East,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,0.0,Debit Card
+TXN-100490,CUST-1060,user_1060@retailcorp.com,2026-08-14T11:25:06,STORE-WEB1,Online,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,PayPal
+TXN-100491,CUST-1140,user_1140@retailcorp.com,2026-09-03T21:05:06,STORE-N11,North,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,237.01,PayPal
+TXN-100492,CUST-1079,user_1079@retailcorp.com,2026-08-29T19:08:08,STORE-S21,South,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,10.45,UPI
+TXN-100493,CUST-1083,user_1083@retailcorp.com,2026-09-05T16:08:44,STORE-W41,West,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,PayPal
+TXN-100494,CUST-1144,user_1144@retailcorp.com,2026-09-28T14:30:34,STORE-C51,Central,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,2.36,PayPal
+TXN-100495,CUST-1066,user_1066@retailcorp.com,2026-08-01T17:52:48,STORE-E30,East,PROD-201,Men Classic Denim Jacket,Apparel,89.0,3,0.0,PayPal
+TXN-100496,CUST-1136,user_1136@retailcorp.com,2026-09-18T16:19:00,STORE-APP1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,0.0,Cash
+TXN-100497,CUST-1059,user_1059@retailcorp.com,2026-08-13T15:56:35,STORE-C51,Central,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,314.32,PayPal
+TXN-100498,CUST-1096,user_1096@retailcorp.com,2026-08-28T19:15:33,STORE-E30,East,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,0.0,UPI
+TXN-100499,CUST-1072,user_1072@retailcorp.com,2026-09-24T10:11:08,STORE-W40,West,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,Cash
+TXN-100500,CUST-1115,user_1115@retailcorp.com,2026-08-13T14:01:09,STORE-APP1,Online,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,Debit Card
+TXN-100501,CUST-1026,user_1026@retailcorp.com,2026-09-15T16:46:00,STORE-E30,East,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,30.89,UPI
+TXN-100502,CUST-1107,user_1107@retailcorp.com,2026-08-30T20:50:02,STORE-W41,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,Debit Card
+TXN-100503,CUST-1014,user_1014@retailcorp.com,2026-09-04T16:11:12,STORE-W40,West,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,3,25.73,Credit Card
+TXN-100504,CUST-1031,user_1031@retailcorp.com,2026-08-16T20:02:12,STORE-W41,West,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,Cash
+TXN-100505,CUST-1053,user_1053@retailcorp.com,2026-09-29T14:10:40,STORE-W41,West,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,0.0,Cash
+TXN-100506,CUST-1133,user_1133@retailcorp.com,2026-09-10T13:12:23,STORE-E31,East,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,3,0.0,Debit Card
+TXN-100507,CUST-1028,user_1028@retailcorp.com,2026-08-21T09:10:50,STORE-APP1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,31.82,Credit Card
+TXN-100508,CUST-1010,user_1010@retailcorp.com,2026-08-24T21:05:15,STORE-WEB1,Online,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,171.36,Credit Card
+TXN-100509,CUST-1015,user_1015@retailcorp.com,2026-09-14T17:50:06,STORE-WEB1,Online,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,9.86,UPI
+TXN-100510,CUST-1112,user_1112@retailcorp.com,2026-08-25T14:46:08,STORE-N12,North,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,22.62,Cash
+TXN-100511,CUST-1075,user_1075@retailcorp.com,2026-09-04T14:20:46,STORE-S20,South,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Cash
+TXN-100512,CUST-1141,user_1141@retailcorp.com,2026-08-10T16:18:52,STORE-N12,North,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,Credit Card
+TXN-100513,CUST-1129,user_1129@retailcorp.com,2026-09-26T09:39:54,STORE-WEB1,Online,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,UPI
+TXN-100514,CUST-1016,user_1016@retailcorp.com,2026-09-19T17:09:39,STORE-S21,South,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,UPI
+TXN-100515,CUST-1028,user_1028@retailcorp.com,2026-08-03T11:11:55,STORE-C50,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,39.29,Credit Card
+TXN-100516,CUST-1146,user_1146@retailcorp.com,2026-09-03T18:44:37,STORE-APP1,Online,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Cash
+TXN-100517,CUST-1018,user_1018@retailcorp.com,2026-09-29T10:29:51,STORE-S21,South,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,0.0,PayPal
+TXN-100518,CUST-1094,user_1094@retailcorp.com,2026-09-03T09:46:04,STORE-C51,Central,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,3,395.2,Cash
+TXN-100519,CUST-1024,user_1024@retailcorp.com,2026-09-04T15:12:12,STORE-WEB1,Online,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,71.76,Debit Card
+TXN-100520,CUST-1142,user_1142@retailcorp.com,2026-09-19T19:36:22,STORE-WEB1,Online,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,0.0,PayPal
+TXN-100521,CUST-1026,user_1026@retailcorp.com,2026-09-02T14:42:10,STORE-S21,South,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,UPI
+TXN-100522,CUST-1080,user_1080@retailcorp.com,2026-09-18T19:27:52,STORE-E31,East,PROD-401,Designing Data-Intensive Applications,Books,45.0,2,0.0,Cash
+TXN-100523,CUST-1139,user_1139@retailcorp.com,2026-08-24T16:28:25,STORE-W41,West,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,13.44,Credit Card
+TXN-100524,CUST-1132,user_1132@retailcorp.com,2026-08-20T12:13:54,STORE-E30,East,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,UPI
+TXN-100525,CUST-1141,user_1141@retailcorp.com,2026-08-30T14:09:08,STORE-N10,North,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,Debit Card
+TXN-100526,CUST-1059,user_1059@retailcorp.com,2026-09-06T15:36:58,STORE-E30,East,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,7.9,PayPal
+TXN-100527,CUST-1044,user_1044@retailcorp.com,2026-09-08T19:19:02,STORE-WEB1,Online,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,0.0,Credit Card
+TXN-100528,CUST-1014,user_1014@retailcorp.com,2026-08-27T10:55:49,STORE-E31,East,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,Cash
+TXN-100529,CUST-1002,user_1002@retailcorp.com,2026-09-03T09:20:34,STORE-N11,North,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,0.0,Debit Card
+TXN-100530,CUST-1039,user_1039@retailcorp.com,2026-08-29T21:38:36,STORE-APP1,Online,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,149.45,PayPal
+TXN-100531,CUST-1037,user_1037@retailcorp.com,2026-08-31T18:47:03,STORE-E30,East,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,9.77,PayPal
+TXN-100532,CUST-1033,user_1033@retailcorp.com,2026-09-01T15:41:36,STORE-W40,West,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,Cash
+TXN-100533,CUST-1063,user_1063@retailcorp.com,2026-09-19T15:20:43,STORE-N11,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,4,113.98,PayPal
+TXN-100534,CUST-1093,user_1093@retailcorp.com,2026-08-23T18:41:01,STORE-S21,South,PROD-402,Cloud Native Architecture Guide,Books,49.99,2,10.24,PayPal
+TXN-100535,CUST-1037,user_1037@retailcorp.com,2026-08-13T19:23:09,STORE-N10,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,0.0,Credit Card
+TXN-100536,CUST-1013,user_1013@retailcorp.com,2026-09-25T13:00:21,STORE-C50,Central,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,44.42,Credit Card
+TXN-100537,CUST-1084,user_1084@retailcorp.com,2026-08-14T17:33:48,STORE-WEB1,Online,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,Debit Card
+TXN-100538,CUST-1004,user_1004@retailcorp.com,2026-08-17T11:03:18,STORE-C50,Central,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,UPI
+TXN-100539,CUST-1013,user_1013@retailcorp.com,2026-08-05T15:42:17,STORE-WEB1,Online,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,0.0,UPI
+TXN-100540,CUST-1027,user_1027@retailcorp.com,2026-08-25T12:24:32,STORE-E32,East,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,5,972.7,Cash
+TXN-100541,CUST-1136,user_1136@retailcorp.com,2026-09-02T16:35:59,STORE-S20,South,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,2,150.3,UPI
+TXN-100542,CUST-1085,user_1085@retailcorp.com,2026-08-02T14:43:22,STORE-W40,West,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Cash
+TXN-100543,CUST-1070,user_1070@retailcorp.com,2026-09-26T15:56:52,STORE-APP1,Online,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,5,0.0,UPI
+TXN-100544,CUST-1057,user_1057@retailcorp.com,2026-09-12T11:05:46,STORE-E31,East,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,Cash
+TXN-100545,CUST-1058,user_1058@retailcorp.com,2026-08-28T13:58:38,STORE-S20,South,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,Debit Card
+TXN-100546,CUST-1035,user_1035@retailcorp.com,2026-09-14T20:57:33,STORE-S21,South,PROD-203,Waterproof Hiking Boots,Apparel,145.0,3,0.0,Debit Card
+TXN-100547,CUST-1144,user_1144@retailcorp.com,2026-09-05T17:46:07,STORE-E30,East,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,Debit Card
+TXN-100548,CUST-1007,user_1007@retailcorp.com,2026-08-20T16:47:59,STORE-W41,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,3,0.0,UPI
+TXN-100549,CUST-1038,user_1038@retailcorp.com,2026-08-12T09:48:39,STORE-N10,North,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,0.0,Cash
+TXN-100550,CUST-1059,user_1059@retailcorp.com,2026-08-23T10:44:49,STORE-S20,South,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,Cash
+TXN-100551,CUST-1120,user_1120@retailcorp.com,2026-09-01T16:08:10,STORE-S21,South,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,8.23,Credit Card
+TXN-100552,CUST-1069,user_1069@retailcorp.com,2026-09-18T12:04:11,STORE-S20,South,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,4,0.0,Cash
+TXN-100553,CUST-1125,user_1125@retailcorp.com,2026-08-28T15:49:02,STORE-W40,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,2,0.0,UPI
+TXN-100554,CUST-1100,user_1100@retailcorp.com,2026-08-29T16:52:56,STORE-C50,Central,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,Cash
+TXN-100555,CUST-1137,user_1137@retailcorp.com,2026-09-05T15:33:48,STORE-WEB1,Online,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,7.12,PayPal
+TXN-100556,CUST-1077,user_1077@retailcorp.com,2026-08-28T13:39:58,STORE-W40,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,Debit Card
+TXN-100557,CUST-1118,user_1118@retailcorp.com,2026-09-02T10:11:49,STORE-N12,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,0.0,Cash
+TXN-100558,CUST-1034,user_1034@retailcorp.com,2026-08-29T09:11:29,STORE-W41,West,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,0.0,Debit Card
+TXN-100559,CUST-1116,user_1116@retailcorp.com,2026-09-14T19:58:45,STORE-E31,East,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,2,0.0,Credit Card
+TXN-100560,CUST-1023,user_1023@retailcorp.com,2026-09-10T14:05:33,STORE-APP1,Online,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,Cash
+TXN-100561,CUST-1040,user_1040@retailcorp.com,2026-08-03T21:10:58,STORE-C51,Central,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Debit Card
+TXN-100562,CUST-1041,user_1041@retailcorp.com,2026-08-27T13:19:46,STORE-S20,South,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,0.0,Debit Card
+TXN-100563,CUST-1030,user_1030@retailcorp.com,2026-09-09T21:16:00,STORE-S20,South,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,Cash
+TXN-100564,CUST-1001,user_1001@retailcorp.com,2026-09-07T19:30:29,STORE-S20,South,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,168.02,Debit Card
+TXN-100565,CUST-1140,user_1140@retailcorp.com,2026-08-04T11:09:03,STORE-C50,Central,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,2,28.49,Cash
+TXN-100566,CUST-1076,user_1076@retailcorp.com,2026-08-07T15:11:10,STORE-N10,North,PROD-401,Designing Data-Intensive Applications,Books,45.0,2,0.0,Cash
+TXN-100567,CUST-1146,user_1146@retailcorp.com,2026-09-29T09:05:49,STORE-W41,West,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,PayPal
+TXN-100568,CUST-1017,user_1017@retailcorp.com,2026-08-19T16:08:07,STORE-C50,Central,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,6.32,Cash
+TXN-100569,CUST-1053,user_1053@retailcorp.com,2026-08-07T18:46:40,STORE-C50,Central,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,23.0,Cash
+TXN-100570,CUST-1073,user_1073@retailcorp.com,2026-08-17T17:36:39,STORE-C51,Central,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,3.29,Cash
+TXN-100571,CUST-1127,user_1127@retailcorp.com,2026-09-15T13:12:00,STORE-S20,South,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Credit Card
+TXN-100572,CUST-1053,user_1053@retailcorp.com,2026-08-22T14:35:51,STORE-W40,West,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,3.93,UPI
+TXN-100573,CUST-1065,user_1065@retailcorp.com,2026-09-02T17:20:49,STORE-E31,East,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,UPI
+TXN-100574,CUST-1101,user_1101@retailcorp.com,2026-08-22T14:59:43,STORE-S20,South,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,Credit Card
+TXN-100575,CUST-1034,user_1034@retailcorp.com,2026-09-27T17:57:21,STORE-S21,South,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Credit Card
+TXN-100576,CUST-1133,user_1133@retailcorp.com,2026-09-05T17:01:13,STORE-C51,Central,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,0.0,UPI
+TXN-100577,CUST-1016,user_1016@retailcorp.com,2026-08-22T15:40:34,STORE-E30,East,PROD-201,Men Classic Denim Jacket,Apparel,89.0,3,0.0,PayPal
+TXN-100578,CUST-1047,user_1047@retailcorp.com,2026-09-24T14:45:02,STORE-E32,East,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,90.6,UPI
+TXN-100579,CUST-1115,user_1115@retailcorp.com,2026-08-12T10:23:50,STORE-S21,South,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,15.91,Cash
+TXN-100580,CUST-1006,user_1006@retailcorp.com,2026-08-13T14:59:30,STORE-C50,Central,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,0.0,UPI
+TXN-100581,CUST-1036,user_1036@retailcorp.com,2026-08-14T20:02:29,STORE-C50,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,Credit Card
+TXN-100582,CUST-1001,user_1001@retailcorp.com,2026-09-24T18:55:05,STORE-N12,North,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,Credit Card
+TXN-100583,CUST-1133,user_1133@retailcorp.com,2026-09-18T13:40:57,STORE-N12,North,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,23.15,Cash
+TXN-100584,CUST-1081,user_1081@retailcorp.com,2026-08-18T11:10:17,STORE-WEB1,Online,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,0.0,Cash
+TXN-100585,CUST-1131,user_1131@retailcorp.com,2026-09-05T14:17:09,STORE-S21,South,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,4,0.0,Cash
+TXN-100586,CUST-1062,user_1062@retailcorp.com,2026-09-09T14:34:28,STORE-N11,North,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,20.4,Credit Card
+TXN-100587,CUST-1027,user_1027@retailcorp.com,2026-08-28T15:11:45,STORE-N10,North,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,0.0,PayPal
+TXN-100588,CUST-1091,user_1091@retailcorp.com,2026-09-15T21:42:51,STORE-E30,East,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,PayPal
+TXN-100589,CUST-1145,user_1145@retailcorp.com,2026-08-30T10:29:19,STORE-N12,North,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,0.0,PayPal
+TXN-100590,CUST-1120,user_1120@retailcorp.com,2026-09-25T18:16:58,STORE-S20,South,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,35.45,UPI
+TXN-100591,CUST-1083,user_1083@retailcorp.com,2026-08-05T16:07:22,STORE-W40,West,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,0.0,UPI
+TXN-100592,CUST-1089,user_1089@retailcorp.com,2026-08-26T20:50:06,STORE-C50,Central,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,UPI
+TXN-100593,CUST-1136,user_1136@retailcorp.com,2026-08-16T18:15:35,STORE-W41,West,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,0.0,Credit Card
+TXN-100594,CUST-1087,user_1087@retailcorp.com,2026-09-20T15:36:50,STORE-APP1,Online,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,Debit Card
+TXN-100595,CUST-1019,user_1019@retailcorp.com,2026-09-08T16:20:35,STORE-N12,North,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,UPI
+TXN-100596,CUST-1103,user_1103@retailcorp.com,2026-09-13T18:49:52,STORE-C50,Central,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,Credit Card
+TXN-100597,CUST-1023,user_1023@retailcorp.com,2026-09-18T11:42:09,STORE-S20,South,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,20.64,PayPal
+TXN-100598,CUST-1050,user_1050@retailcorp.com,2026-08-20T18:50:58,STORE-APP1,Online,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,0.0,PayPal
+TXN-100599,CUST-1088,user_1088@retailcorp.com,2026-09-09T17:25:54,STORE-C50,Central,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,42.05,Cash
+TXN-100600,CUST-1013,user_1013@retailcorp.com,2026-08-08T13:55:01,STORE-APP1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,PayPal
+TXN-100601,CUST-1081,user_1081@retailcorp.com,2026-08-28T17:13:42,STORE-W41,West,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,5.07,UPI
+TXN-100602,CUST-1106,user_1106@retailcorp.com,2026-08-09T11:00:04,STORE-E32,East,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,32.53,PayPal
+TXN-100603,CUST-1034,user_1034@retailcorp.com,2026-09-25T16:57:50,STORE-S21,South,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,2,0.0,Cash
+TXN-100604,CUST-1046,user_1046@retailcorp.com,2026-09-05T16:24:22,STORE-C51,Central,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,0.0,Credit Card
+TXN-100605,CUST-1147,user_1147@retailcorp.com,2026-09-15T17:17:26,STORE-WEB1,Online,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,4,0.0,Credit Card
+TXN-100606,CUST-1009,user_1009@retailcorp.com,2026-08-08T18:30:44,STORE-APP1,Online,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Cash
+TXN-100607,CUST-1071,user_1071@retailcorp.com,2026-09-03T18:05:15,STORE-C50,Central,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,0.0,Credit Card
+TXN-100608,CUST-1138,user_1138@retailcorp.com,2026-09-27T14:34:49,STORE-C50,Central,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,PayPal
+TXN-100609,CUST-1146,user_1146@retailcorp.com,2026-09-21T13:18:10,STORE-W41,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,UPI
+TXN-100610,CUST-1144,user_1144@retailcorp.com,2026-08-31T18:10:36,STORE-N12,North,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,Cash
+TXN-100611,CUST-1006,user_1006@retailcorp.com,2026-08-09T17:04:54,STORE-W40,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,70.9,UPI
+TXN-100612,CUST-1065,user_1065@retailcorp.com,2026-09-08T11:58:37,STORE-WEB1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,0.0,UPI
+TXN-100613,CUST-1044,user_1044@retailcorp.com,2026-09-01T11:51:33,STORE-WEB1,Online,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,3,0.0,Credit Card
+TXN-100614,CUST-1037,user_1037@retailcorp.com,2026-09-19T15:15:42,STORE-W41,West,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,Debit Card
+TXN-100615,CUST-1147,user_1147@retailcorp.com,2026-08-17T21:52:07,STORE-N12,North,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,PayPal
+TXN-100616,CUST-1077,user_1077@retailcorp.com,2026-08-25T19:45:24,STORE-WEB1,Online,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,216.65,Credit Card
+TXN-100617,CUST-1073,user_1073@retailcorp.com,2026-09-03T19:02:06,STORE-W41,West,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,3,0.0,PayPal
+TXN-100618,CUST-1069,user_1069@retailcorp.com,2026-09-21T10:16:41,STORE-E31,East,PROD-401,Designing Data-Intensive Applications,Books,45.0,2,0.0,Debit Card
+TXN-100619,CUST-1049,user_1049@retailcorp.com,2026-08-21T17:00:43,STORE-WEB1,Online,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,5.03,Cash
+TXN-100620,CUST-1026,user_1026@retailcorp.com,2026-09-16T13:16:12,STORE-E30,East,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,0.0,Credit Card
+TXN-100621,CUST-1055,user_1055@retailcorp.com,2026-08-06T18:08:24,STORE-WEB1,Online,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,Cash
+TXN-100622,CUST-1047,user_1047@retailcorp.com,2026-08-17T13:29:42,STORE-WEB1,Online,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,4,0.0,UPI
+TXN-100623,CUST-1109,user_1109@retailcorp.com,2026-09-19T10:17:49,STORE-E30,East,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,Credit Card
+TXN-100624,CUST-1066,user_1066@retailcorp.com,2026-08-05T16:59:12,STORE-S21,South,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,2,19.81,Debit Card
+TXN-100625,CUST-1138,user_1138@retailcorp.com,2026-09-28T16:45:16,STORE-S20,South,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,3.32,UPI
+TXN-100626,CUST-1114,user_1114@retailcorp.com,2026-09-11T19:00:59,STORE-W40,West,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,Debit Card
+TXN-100627,CUST-1084,user_1084@retailcorp.com,2026-09-02T20:49:31,STORE-C50,Central,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Credit Card
+TXN-100628,CUST-1138,user_1138@retailcorp.com,2026-09-14T21:30:07,STORE-N11,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,0.0,UPI
+TXN-100629,CUST-1085,user_1085@retailcorp.com,2026-09-10T19:05:23,STORE-W40,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,Credit Card
+TXN-100630,CUST-1117,user_1117@retailcorp.com,2026-08-12T17:02:24,STORE-WEB1,Online,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,54.04,Credit Card
+TXN-100631,CUST-1091,user_1091@retailcorp.com,2026-08-29T20:12:08,STORE-N12,North,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,239.35,Debit Card
+TXN-100632,CUST-1125,user_1125@retailcorp.com,2026-09-11T13:31:34,STORE-N12,North,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,4,0.0,Credit Card
+TXN-100633,CUST-1009,user_1009@retailcorp.com,2026-09-20T20:02:25,STORE-N11,North,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,Cash
+TXN-100634,CUST-1117,user_1117@retailcorp.com,2026-09-29T10:02:47,STORE-WEB1,Online,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,PayPal
+TXN-100635,CUST-1011,user_1011@retailcorp.com,2026-08-01T11:40:03,STORE-WEB1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,3,0.0,Credit Card
+TXN-100636,CUST-1116,user_1116@retailcorp.com,2026-09-22T10:07:31,STORE-C50,Central,PROD-202,Women Merino Wool Sweater,Apparel,110.0,2,0.0,Credit Card
+TXN-100637,CUST-1051,user_1051@retailcorp.com,2026-09-13T15:20:07,STORE-E32,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,5,0.0,Debit Card
+TXN-100638,CUST-1082,user_1082@retailcorp.com,2026-08-12T14:04:07,STORE-N12,North,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,Debit Card
+TXN-100639,CUST-1094,user_1094@retailcorp.com,2026-09-29T18:02:08,STORE-W40,West,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,Cash
+TXN-100640,CUST-1096,user_1096@retailcorp.com,2026-08-06T09:00:11,STORE-N11,North,PROD-202,Women Merino Wool Sweater,Apparel,110.0,4,0.0,Cash
+TXN-100641,CUST-1072,user_1072@retailcorp.com,2026-09-14T11:13:09,STORE-APP1,Online,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,0.0,PayPal
+TXN-100642,CUST-1061,user_1061@retailcorp.com,2026-09-08T11:45:31,STORE-C50,Central,PROD-202,Women Merino Wool Sweater,Apparel,110.0,2,38.27,UPI
+TXN-100643,CUST-1089,user_1089@retailcorp.com,2026-08-16T12:07:33,STORE-N12,North,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,5,0.0,Cash
+TXN-100644,CUST-1129,user_1129@retailcorp.com,2026-08-18T09:12:07,STORE-W40,West,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,0.0,PayPal
+TXN-100645,CUST-1127,user_1127@retailcorp.com,2026-08-04T19:23:18,STORE-S20,South,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,15.68,PayPal
+TXN-100646,CUST-1011,user_1011@retailcorp.com,2026-09-29T17:11:10,STORE-WEB1,Online,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,Credit Card
+TXN-100647,CUST-1018,user_1018@retailcorp.com,2026-09-07T18:20:26,STORE-APP1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,UPI
+TXN-100648,CUST-1058,user_1058@retailcorp.com,2026-08-07T12:47:26,STORE-E30,East,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,3,0.0,Debit Card
+TXN-100649,CUST-1018,user_1018@retailcorp.com,2026-08-04T15:09:13,STORE-C51,Central,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,4,0.0,PayPal
+TXN-100650,CUST-1095,user_1095@retailcorp.com,2026-09-10T14:17:12,STORE-W40,West,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,12.04,UPI
+TXN-100651,CUST-1034,user_1034@retailcorp.com,2026-08-27T11:48:21,STORE-W41,West,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,36.69,Cash
+TXN-100652,CUST-1043,user_1043@retailcorp.com,2026-09-24T17:31:55,STORE-N11,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,5,0.0,PayPal
+TXN-100653,CUST-1071,user_1071@retailcorp.com,2026-09-17T12:15:20,STORE-APP1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,378.05,Debit Card
+TXN-100654,CUST-1146,user_1146@retailcorp.com,2026-08-03T16:46:49,STORE-W40,West,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,PayPal
+TXN-100655,CUST-1122,user_1122@retailcorp.com,2026-08-16T10:35:48,STORE-W41,West,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,Debit Card
+TXN-100656,CUST-1033,user_1033@retailcorp.com,2026-09-11T10:01:30,STORE-E30,East,PROD-402,Cloud Native Architecture Guide,Books,49.99,2,11.89,Cash
+TXN-100657,CUST-1149,user_1149@retailcorp.com,2026-09-19T11:55:45,STORE-W41,West,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,UPI
+TXN-100658,CUST-1118,user_1118@retailcorp.com,2026-08-25T20:21:33,STORE-WEB1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,UPI
+TXN-100659,CUST-1138,user_1138@retailcorp.com,2026-09-09T14:47:59,STORE-WEB1,Online,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,UPI
+TXN-100660,CUST-1013,user_1013@retailcorp.com,2026-08-30T18:02:23,STORE-W41,West,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,Credit Card
+TXN-100661,CUST-1143,user_1143@retailcorp.com,2026-08-16T17:07:41,STORE-S21,South,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,Cash
+TXN-100662,CUST-1053,user_1053@retailcorp.com,2026-09-27T13:32:43,STORE-E31,East,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,20.02,PayPal
+TXN-100663,CUST-1124,user_1124@retailcorp.com,2026-08-29T18:23:51,STORE-W41,West,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,Credit Card
+TXN-100664,CUST-1048,user_1048@retailcorp.com,2026-08-26T11:18:04,STORE-N10,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,46.21,PayPal
+TXN-100665,CUST-1038,user_1038@retailcorp.com,2026-08-19T15:43:34,STORE-C50,Central,PROD-203,Waterproof Hiking Boots,Apparel,145.0,4,0.0,PayPal
+TXN-100666,CUST-1113,user_1113@retailcorp.com,2026-08-05T09:55:51,STORE-E30,East,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,UPI
+TXN-100667,CUST-1105,user_1105@retailcorp.com,2026-09-01T18:42:44,STORE-APP1,Online,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,PayPal
+TXN-100668,CUST-1077,user_1077@retailcorp.com,2026-09-20T13:14:30,STORE-E30,East,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,15.74,Debit Card
+TXN-100669,CUST-1090,user_1090@retailcorp.com,2026-09-09T11:45:34,STORE-W40,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,Debit Card
+TXN-100670,CUST-1041,user_1041@retailcorp.com,2026-08-21T18:08:28,STORE-N10,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,25.4,Credit Card
+TXN-100671,CUST-1081,user_1081@retailcorp.com,2026-08-29T17:10:34,STORE-S21,South,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,PayPal
+TXN-100672,CUST-1127,user_1127@retailcorp.com,2026-08-10T09:47:34,STORE-W41,West,PROD-201,Men Classic Denim Jacket,Apparel,89.0,5,0.0,UPI
+TXN-100673,CUST-1121,user_1121@retailcorp.com,2026-09-21T18:46:58,STORE-C50,Central,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,4,0.0,Credit Card
+TXN-100674,CUST-1122,user_1122@retailcorp.com,2026-08-20T09:25:39,STORE-S20,South,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,3,0.0,Credit Card
+TXN-100675,CUST-1083,user_1083@retailcorp.com,2026-09-07T17:14:50,STORE-C50,Central,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,4,341.43,Cash
+TXN-100676,CUST-1114,user_1114@retailcorp.com,2026-08-13T16:20:38,STORE-C51,Central,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,2,0.0,UPI
+TXN-100677,CUST-1101,user_1101@retailcorp.com,2026-08-24T15:23:00,STORE-APP1,Online,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,PayPal
+TXN-100678,CUST-1143,user_1143@retailcorp.com,2026-09-17T15:51:28,STORE-S21,South,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,PayPal
+TXN-100679,CUST-1106,user_1106@retailcorp.com,2026-08-10T12:19:30,STORE-C50,Central,PROD-201,Men Classic Denim Jacket,Apparel,89.0,5,0.0,UPI
+TXN-100680,CUST-1016,user_1016@retailcorp.com,2026-08-27T19:58:17,STORE-N10,North,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Cash
+TXN-100681,CUST-1035,user_1035@retailcorp.com,2026-08-19T17:31:02,STORE-S21,South,PROD-203,Waterproof Hiking Boots,Apparel,145.0,3,0.0,Cash
+TXN-100682,CUST-1077,user_1077@retailcorp.com,2026-08-15T09:50:00,STORE-C51,Central,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,PayPal
+TXN-100683,CUST-1031,user_1031@retailcorp.com,2026-09-01T20:41:15,STORE-W40,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,PayPal
+TXN-100684,CUST-1017,user_1017@retailcorp.com,2026-09-06T15:55:16,STORE-C51,Central,PROD-402,Cloud Native Architecture Guide,Books,49.99,2,0.0,Credit Card
+TXN-100685,CUST-1095,user_1095@retailcorp.com,2026-09-07T09:09:20,STORE-E30,East,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,UPI
+TXN-100686,CUST-1041,user_1041@retailcorp.com,2026-08-27T19:58:22,STORE-E31,East,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,233.2,Credit Card
+TXN-100687,CUST-1131,user_1131@retailcorp.com,2026-09-18T10:38:48,STORE-WEB1,Online,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,UPI
+TXN-100688,CUST-1077,user_1077@retailcorp.com,2026-08-07T17:37:22,STORE-APP1,Online,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,3,30.65,UPI
+TXN-100689,CUST-1124,user_1124@retailcorp.com,2026-08-07T12:09:32,STORE-E30,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,4.52,Cash
+TXN-100690,CUST-1134,user_1134@retailcorp.com,2026-09-28T10:07:52,STORE-W41,West,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,51.01,UPI
+TXN-100691,CUST-1035,user_1035@retailcorp.com,2026-08-12T20:19:01,STORE-C51,Central,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,41.45,Debit Card
+TXN-100692,CUST-1058,user_1058@retailcorp.com,2026-08-09T10:27:44,STORE-S20,South,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,26.3,PayPal
+TXN-100693,CUST-1110,user_1110@retailcorp.com,2026-08-03T21:42:32,STORE-S20,South,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,2,0.0,UPI
+TXN-100694,CUST-1011,user_1011@retailcorp.com,2026-08-01T21:06:50,STORE-E32,East,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,Cash
+TXN-100695,CUST-1051,user_1051@retailcorp.com,2026-08-02T10:09:54,STORE-APP1,Online,PROD-202,Women Merino Wool Sweater,Apparel,110.0,2,30.13,UPI
+TXN-100696,CUST-1041,user_1041@retailcorp.com,2026-08-07T18:48:00,STORE-C50,Central,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,UPI
+TXN-100697,CUST-1043,user_1043@retailcorp.com,2026-09-29T12:58:32,STORE-WEB1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,3,0.0,Cash
+TXN-100698,CUST-1047,user_1047@retailcorp.com,2026-08-12T14:24:27,STORE-WEB1,Online,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,20.01,UPI
+TXN-100699,CUST-1031,user_1031@retailcorp.com,2026-08-09T16:48:23,STORE-N12,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,0.0,Credit Card
+TXN-100700,CUST-1021,user_1021@retailcorp.com,2026-08-25T13:29:38,STORE-W40,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,2,0.0,PayPal
+TXN-100701,CUST-1057,user_1057@retailcorp.com,2026-08-13T10:57:53,STORE-E31,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,3,0.0,UPI
+TXN-100702,CUST-1045,user_1045@retailcorp.com,2026-09-13T10:25:28,STORE-APP1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,Credit Card
+TXN-100703,CUST-1036,user_1036@retailcorp.com,2026-09-17T11:04:23,STORE-W40,West,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,5,0.0,Cash
+TXN-100704,CUST-1103,user_1103@retailcorp.com,2026-09-16T16:17:48,STORE-S21,South,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,UPI
+TXN-100705,CUST-1102,user_1102@retailcorp.com,2026-09-01T17:17:09,STORE-W41,West,PROD-402,Cloud Native Architecture Guide,Books,49.99,2,8.76,PayPal
+TXN-100706,CUST-1059,user_1059@retailcorp.com,2026-09-17T09:53:04,STORE-N10,North,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,6.84,Cash
+TXN-100707,CUST-1083,user_1083@retailcorp.com,2026-09-09T10:48:04,STORE-E32,East,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,0.0,PayPal
+TXN-100708,CUST-1119,user_1119@retailcorp.com,2026-09-01T16:32:16,STORE-E32,East,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,Cash
+TXN-100709,CUST-1139,user_1139@retailcorp.com,2026-09-26T10:24:28,STORE-N11,North,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,PayPal
+TXN-100710,CUST-1009,user_1009@retailcorp.com,2026-09-26T20:10:31,STORE-S21,South,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,PayPal
+TXN-100711,CUST-1124,user_1124@retailcorp.com,2026-09-12T17:43:34,STORE-C51,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,Debit Card
+TXN-100712,CUST-1129,user_1129@retailcorp.com,2026-09-01T18:24:39,STORE-W41,West,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,2,0.0,UPI
+TXN-100713,CUST-1082,user_1082@retailcorp.com,2026-08-03T11:53:23,STORE-N12,North,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,Credit Card
+TXN-100714,CUST-1087,user_1087@retailcorp.com,2026-08-23T14:26:22,STORE-N11,North,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,3.24,UPI
+TXN-100715,CUST-1021,user_1021@retailcorp.com,2026-08-22T11:01:34,STORE-E30,East,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,PayPal
+TXN-100716,CUST-1145,user_1145@retailcorp.com,2026-09-14T16:37:01,STORE-E30,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,5,0.0,PayPal
+TXN-100717,CUST-1082,user_1082@retailcorp.com,2026-09-14T19:13:21,STORE-W40,West,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,UPI
+TXN-100718,CUST-1042,user_1042@retailcorp.com,2026-08-13T16:40:54,STORE-E31,East,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,5,221.05,Debit Card
+TXN-100719,CUST-1073,user_1073@retailcorp.com,2026-09-06T15:51:14,STORE-N11,North,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,2,0.0,Cash
+TXN-100720,CUST-1024,user_1024@retailcorp.com,2026-09-06T21:33:30,STORE-E30,East,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,Credit Card
+TXN-100721,CUST-1077,user_1077@retailcorp.com,2026-08-13T15:25:16,STORE-W41,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,0.0,Cash
+TXN-100722,CUST-1046,user_1046@retailcorp.com,2026-09-06T16:13:42,STORE-WEB1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,4,0.0,PayPal
+TXN-100723,CUST-1068,user_1068@retailcorp.com,2026-09-03T12:23:29,STORE-C50,Central,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,3.74,UPI
+TXN-100724,CUST-1111,user_1111@retailcorp.com,2026-09-10T12:54:26,STORE-E30,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,1.82,Cash
+TXN-100725,CUST-1060,user_1060@retailcorp.com,2026-08-10T12:01:15,STORE-S20,South,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,0.0,PayPal
+TXN-100726,CUST-1143,user_1143@retailcorp.com,2026-08-13T11:17:08,STORE-W40,West,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,UPI
+TXN-100727,CUST-1140,user_1140@retailcorp.com,2026-09-16T16:50:01,STORE-WEB1,Online,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,UPI
+TXN-100728,CUST-1076,user_1076@retailcorp.com,2026-09-12T19:56:05,STORE-W41,West,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,Debit Card
+TXN-100729,CUST-1060,user_1060@retailcorp.com,2026-09-03T19:53:37,STORE-C50,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,4,0.0,UPI
+TXN-100730,CUST-1127,user_1127@retailcorp.com,2026-09-19T21:20:21,STORE-S20,South,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,3,0.0,Debit Card
+TXN-100731,CUST-1108,user_1108@retailcorp.com,2026-08-12T12:17:28,STORE-S20,South,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,Credit Card
+TXN-100732,CUST-1125,user_1125@retailcorp.com,2026-08-21T17:27:30,STORE-WEB1,Online,PROD-402,Cloud Native Architecture Guide,Books,49.99,2,0.0,Debit Card
+TXN-100733,CUST-1092,user_1092@retailcorp.com,2026-09-22T13:01:41,STORE-APP1,Online,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,4,0.0,Credit Card
+TXN-100734,CUST-1061,user_1061@retailcorp.com,2026-08-20T19:44:23,STORE-C51,Central,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,3,0.0,Cash
+TXN-100735,CUST-1060,user_1060@retailcorp.com,2026-09-28T15:59:58,STORE-W40,West,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,51.85,Debit Card
+TXN-100736,CUST-1076,user_1076@retailcorp.com,2026-09-10T14:56:51,STORE-S21,South,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,0.0,Credit Card
+TXN-100737,CUST-1070,user_1070@retailcorp.com,2026-09-17T15:59:53,STORE-W41,West,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,Credit Card
+TXN-100738,CUST-1041,user_1041@retailcorp.com,2026-08-23T15:38:46,STORE-C50,Central,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,3,0.0,PayPal
+TXN-100739,CUST-1007,user_1007@retailcorp.com,2026-09-10T16:50:41,STORE-WEB1,Online,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,UPI
+TXN-100740,CUST-1080,user_1080@retailcorp.com,2026-08-16T17:45:49,STORE-N10,North,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,3,0.0,Cash
+TXN-100741,CUST-1105,user_1105@retailcorp.com,2026-09-25T20:08:16,STORE-W41,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,UPI
+TXN-100742,CUST-1072,user_1072@retailcorp.com,2026-08-24T11:25:56,STORE-N11,North,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,Cash
+TXN-100743,CUST-1057,user_1057@retailcorp.com,2026-09-11T18:40:14,STORE-N12,North,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,3,0.0,Debit Card
+TXN-100744,CUST-1067,user_1067@retailcorp.com,2026-09-09T15:38:16,STORE-N11,North,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,Debit Card
+TXN-100745,CUST-1145,user_1145@retailcorp.com,2026-09-03T15:49:58,STORE-N12,North,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,4,0.0,PayPal
+TXN-100746,CUST-1030,user_1030@retailcorp.com,2026-08-13T21:17:18,STORE-WEB1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,0.0,PayPal
+TXN-100747,CUST-1052,user_1052@retailcorp.com,2026-09-13T12:26:11,STORE-E32,East,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,13.56,UPI
+TXN-100748,CUST-1060,user_1060@retailcorp.com,2026-09-07T19:41:29,STORE-S21,South,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,0.0,UPI
+TXN-100749,CUST-1101,user_1101@retailcorp.com,2026-09-15T15:47:38,STORE-APP1,Online,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,8.53,UPI
+TXN-100750,CUST-1060,user_1060@retailcorp.com,2026-09-12T21:38:45,STORE-E32,East,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,211.32,Cash
+TXN-100751,CUST-1097,user_1097@retailcorp.com,2026-08-09T17:02:37,STORE-W41,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,30.86,UPI
+TXN-100752,CUST-1119,user_1119@retailcorp.com,2026-09-15T17:27:09,STORE-N11,North,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,Debit Card
+TXN-100753,CUST-1127,user_1127@retailcorp.com,2026-09-29T15:18:57,STORE-APP1,Online,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,3,0.0,UPI
+TXN-100754,CUST-1132,user_1132@retailcorp.com,2026-08-21T20:31:48,STORE-W40,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,4,0.0,PayPal
+TXN-100755,CUST-1013,user_1013@retailcorp.com,2026-08-15T11:02:30,STORE-S20,South,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,PayPal
+TXN-100756,CUST-1029,user_1029@retailcorp.com,2026-08-23T20:35:31,STORE-N11,North,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,189.56,Debit Card
+TXN-100757,CUST-1031,user_1031@retailcorp.com,2026-09-25T13:11:53,STORE-N10,North,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,UPI
+TXN-100758,CUST-1144,user_1144@retailcorp.com,2026-09-03T21:36:11,STORE-C50,Central,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,23.96,Credit Card
+TXN-100759,CUST-1084,user_1084@retailcorp.com,2026-09-13T10:25:23,STORE-E32,East,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,0.0,UPI
+TXN-100760,CUST-1039,user_1039@retailcorp.com,2026-09-23T20:42:30,STORE-N11,North,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,Cash
+TXN-100761,CUST-1001,user_1001@retailcorp.com,2026-09-09T16:20:46,STORE-N12,North,PROD-401,Designing Data-Intensive Applications,Books,45.0,5,0.0,Cash
+TXN-100762,CUST-1033,user_1033@retailcorp.com,2026-08-19T14:51:03,STORE-N12,North,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,0.0,Cash
+TXN-100763,CUST-1097,user_1097@retailcorp.com,2026-08-12T12:49:55,STORE-W41,West,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,32.41,PayPal
+TXN-100764,CUST-1103,user_1103@retailcorp.com,2026-08-08T13:31:51,STORE-WEB1,Online,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,UPI
+TXN-100765,CUST-1033,user_1033@retailcorp.com,2026-09-23T14:32:12,STORE-WEB1,Online,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,PayPal
+TXN-100766,CUST-1068,user_1068@retailcorp.com,2026-09-21T14:39:11,STORE-N11,North,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,Credit Card
+TXN-100767,CUST-1131,user_1131@retailcorp.com,2026-09-11T19:45:09,STORE-W40,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,4,0.0,Cash
+TXN-100768,CUST-1021,user_1021@retailcorp.com,2026-08-06T21:30:19,STORE-W41,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,46.17,Debit Card
+TXN-100769,CUST-1133,user_1133@retailcorp.com,2026-08-04T17:04:58,STORE-E32,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,2.79,Credit Card
+TXN-100770,CUST-1118,user_1118@retailcorp.com,2026-09-07T10:49:32,STORE-E31,East,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,PayPal
+TXN-100771,CUST-1045,user_1045@retailcorp.com,2026-08-06T15:56:45,STORE-W40,West,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,PayPal
+TXN-100772,CUST-1115,user_1115@retailcorp.com,2026-08-14T11:05:47,STORE-E30,East,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,5,60.4,PayPal
+TXN-100773,CUST-1136,user_1136@retailcorp.com,2026-08-08T09:10:41,STORE-N11,North,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,Cash
+TXN-100774,CUST-1124,user_1124@retailcorp.com,2026-09-14T19:44:43,STORE-C51,Central,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,Debit Card
+TXN-100775,CUST-1034,user_1034@retailcorp.com,2026-09-22T09:44:12,STORE-S20,South,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,3,883.32,Debit Card
+TXN-100776,CUST-1111,user_1111@retailcorp.com,2026-09-19T16:09:30,STORE-N11,North,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,26.88,PayPal
+TXN-100777,CUST-1124,user_1124@retailcorp.com,2026-09-07T12:12:18,STORE-N11,North,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,0.0,Credit Card
+TXN-100778,CUST-1085,user_1085@retailcorp.com,2026-09-24T20:27:26,STORE-N12,North,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,3,0.0,Cash
+TXN-100779,CUST-1141,user_1141@retailcorp.com,2026-08-26T16:32:37,STORE-N11,North,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,0.0,PayPal
+TXN-100780,CUST-1059,user_1059@retailcorp.com,2026-08-28T18:20:35,STORE-C50,Central,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,PayPal
+TXN-100781,CUST-1121,user_1121@retailcorp.com,2026-08-29T20:27:01,STORE-W41,West,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,PayPal
+TXN-100782,CUST-1088,user_1088@retailcorp.com,2026-09-07T19:21:58,STORE-S20,South,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,0.0,PayPal
+TXN-100783,CUST-1033,user_1033@retailcorp.com,2026-08-27T19:41:47,STORE-APP1,Online,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,Debit Card
+TXN-100784,CUST-1053,user_1053@retailcorp.com,2026-09-12T16:08:11,STORE-WEB1,Online,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,Credit Card
+TXN-100785,CUST-1106,user_1106@retailcorp.com,2026-08-14T17:03:01,STORE-E30,East,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,181.85,Debit Card
+TXN-100786,CUST-1128,user_1128@retailcorp.com,2026-08-28T10:39:14,STORE-N11,North,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,141.79,UPI
+TXN-100787,CUST-1090,user_1090@retailcorp.com,2026-09-27T11:54:44,STORE-C51,Central,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,3,0.0,Credit Card
+TXN-100788,CUST-1012,user_1012@retailcorp.com,2026-08-07T21:39:39,STORE-W40,West,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,0.0,Cash
+TXN-100789,CUST-1010,user_1010@retailcorp.com,2026-09-25T12:58:23,STORE-S20,South,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,58.0,Cash
+TXN-100790,CUST-1127,user_1127@retailcorp.com,2026-08-22T11:07:54,STORE-S21,South,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,Credit Card
+TXN-100791,CUST-1062,user_1062@retailcorp.com,2026-09-02T11:05:17,STORE-E31,East,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,UPI
+TXN-100792,CUST-1062,user_1062@retailcorp.com,2026-09-20T12:08:51,STORE-C51,Central,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,PayPal
+TXN-100793,CUST-1132,user_1132@retailcorp.com,2026-08-10T21:00:45,STORE-N11,North,PROD-402,Cloud Native Architecture Guide,Books,49.99,3,0.0,Credit Card
+TXN-100794,CUST-1086,user_1086@retailcorp.com,2026-08-28T09:25:48,STORE-W40,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,Debit Card
+TXN-100795,CUST-1147,user_1147@retailcorp.com,2026-08-27T15:56:43,STORE-APP1,Online,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,2,0.0,UPI
+TXN-100796,CUST-1088,user_1088@retailcorp.com,2026-09-09T11:44:25,STORE-E32,East,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,263.2,Cash
+TXN-100797,CUST-1113,user_1113@retailcorp.com,2026-09-19T12:56:19,STORE-APP1,Online,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,PayPal
+TXN-100798,CUST-1032,user_1032@retailcorp.com,2026-09-02T17:19:33,STORE-S20,South,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,Credit Card
+TXN-100799,CUST-1007,user_1007@retailcorp.com,2026-09-16T15:32:07,STORE-S21,South,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,2,0.0,UPI
+TXN-100800,CUST-1129,user_1129@retailcorp.com,2026-09-18T19:07:28,STORE-N10,North,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,PayPal
+TXN-100801,CUST-1086,user_1086@retailcorp.com,2026-08-23T13:18:42,STORE-WEB1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,0.0,Debit Card
+TXN-100802,CUST-1096,user_1096@retailcorp.com,2026-09-03T18:12:52,STORE-N11,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,0.0,Debit Card
+TXN-100803,CUST-1108,user_1108@retailcorp.com,2026-08-04T15:56:08,STORE-N10,North,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,UPI
+TXN-100804,CUST-1134,user_1134@retailcorp.com,2026-09-25T13:37:31,STORE-C51,Central,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,0.0,PayPal
+TXN-100805,CUST-1106,user_1106@retailcorp.com,2026-09-01T20:29:08,STORE-S20,South,PROD-202,Women Merino Wool Sweater,Apparel,110.0,4,0.0,Cash
+TXN-100806,CUST-1030,user_1030@retailcorp.com,2026-08-03T20:10:35,STORE-W41,West,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,Cash
+TXN-100807,CUST-1104,user_1104@retailcorp.com,2026-09-06T13:02:33,STORE-N11,North,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,UPI
+TXN-100808,CUST-1077,user_1077@retailcorp.com,2026-09-20T11:09:50,STORE-W40,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,91.7,UPI
+TXN-100809,CUST-1055,user_1055@retailcorp.com,2026-08-01T10:35:22,STORE-APP1,Online,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,13.44,UPI
+TXN-100810,CUST-1144,user_1144@retailcorp.com,2026-08-31T20:53:38,STORE-E31,East,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,43.5,PayPal
+TXN-100811,CUST-1114,user_1114@retailcorp.com,2026-08-06T21:39:42,STORE-APP1,Online,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,0.0,PayPal
+TXN-100812,CUST-1086,user_1086@retailcorp.com,2026-09-17T13:41:05,STORE-APP1,Online,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,3,0.0,Cash
+TXN-100813,CUST-1079,user_1079@retailcorp.com,2026-08-13T18:34:36,STORE-WEB1,Online,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,Cash
+TXN-100814,CUST-1048,user_1048@retailcorp.com,2026-08-08T19:59:34,STORE-C50,Central,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,201.62,Debit Card
+TXN-100815,CUST-1148,user_1148@retailcorp.com,2026-09-08T14:25:37,STORE-N12,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,0.0,Credit Card
+TXN-100816,CUST-1087,user_1087@retailcorp.com,2026-08-02T17:20:24,STORE-S21,South,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,1.59,Debit Card
+TXN-100817,CUST-1073,user_1073@retailcorp.com,2026-09-19T10:09:19,STORE-S21,South,PROD-201,Men Classic Denim Jacket,Apparel,89.0,4,0.0,Credit Card
+TXN-100818,CUST-1083,user_1083@retailcorp.com,2026-08-04T13:24:06,STORE-N12,North,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,UPI
+TXN-100819,CUST-1066,user_1066@retailcorp.com,2026-08-13T12:48:38,STORE-N10,North,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,0.0,Cash
+TXN-100820,CUST-1098,user_1098@retailcorp.com,2026-08-21T16:35:26,STORE-E30,East,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,72.37,Credit Card
+TXN-100821,CUST-1068,user_1068@retailcorp.com,2026-08-20T18:26:28,STORE-S20,South,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,Debit Card
+TXN-100822,CUST-1036,user_1036@retailcorp.com,2026-09-20T12:34:27,STORE-C50,Central,PROD-402,Cloud Native Architecture Guide,Books,49.99,4,0.0,Credit Card
+TXN-100823,CUST-1000,user_1000@retailcorp.com,2026-09-11T11:00:03,STORE-C51,Central,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,4,0.0,Cash
+TXN-100824,CUST-1064,user_1064@retailcorp.com,2026-08-14T18:53:32,STORE-E32,East,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,4.94,Credit Card
+TXN-100825,CUST-1076,user_1076@retailcorp.com,2026-09-23T11:46:35,STORE-W40,West,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,5,0.0,Debit Card
+TXN-100826,CUST-1129,user_1129@retailcorp.com,2026-09-10T13:48:45,STORE-APP1,Online,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,8.89,UPI
+TXN-100827,CUST-1053,user_1053@retailcorp.com,2026-08-02T20:08:41,STORE-C51,Central,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,4,0.0,Credit Card
+TXN-100828,CUST-1002,user_1002@retailcorp.com,2026-09-18T15:34:05,STORE-W41,West,PROD-202,Women Merino Wool Sweater,Apparel,110.0,2,0.0,Credit Card
+TXN-100829,CUST-1137,user_1137@retailcorp.com,2026-09-13T10:22:52,STORE-APP1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,PayPal
+TXN-100830,CUST-1045,user_1045@retailcorp.com,2026-08-24T12:28:00,STORE-N11,North,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,184.25,UPI
+TXN-100831,CUST-1049,user_1049@retailcorp.com,2026-09-21T20:14:14,STORE-C51,Central,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,5,0.0,Credit Card
+TXN-100832,CUST-1071,user_1071@retailcorp.com,2026-08-01T12:52:40,STORE-WEB1,Online,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Cash
+TXN-100833,CUST-1128,user_1128@retailcorp.com,2026-09-12T20:36:43,STORE-S20,South,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,0.0,Credit Card
+TXN-100834,CUST-1032,user_1032@retailcorp.com,2026-09-29T18:54:14,STORE-S21,South,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,3,0.0,UPI
+TXN-100835,CUST-1049,user_1049@retailcorp.com,2026-09-13T17:56:29,STORE-APP1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,Credit Card
+TXN-100836,CUST-1082,user_1082@retailcorp.com,2026-08-08T19:33:29,STORE-W41,West,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,Credit Card
+TXN-100837,CUST-1057,user_1057@retailcorp.com,2026-09-04T16:20:00,STORE-E31,East,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,Cash
+TXN-100838,CUST-1006,user_1006@retailcorp.com,2026-08-05T12:12:10,STORE-APP1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,27.18,Credit Card
+TXN-100839,CUST-1122,user_1122@retailcorp.com,2026-09-21T19:59:21,STORE-N12,North,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,3,8.9,UPI
+TXN-100840,CUST-1013,user_1013@retailcorp.com,2026-08-05T21:38:39,STORE-C50,Central,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,5.26,Credit Card
+TXN-100841,CUST-1021,user_1021@retailcorp.com,2026-08-21T20:04:50,STORE-N11,North,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,PayPal
+TXN-100842,CUST-1014,user_1014@retailcorp.com,2026-08-05T10:43:03,STORE-C51,Central,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,53.39,Credit Card
+TXN-100843,CUST-1105,user_1105@retailcorp.com,2026-08-30T15:29:50,STORE-C50,Central,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,Credit Card
+TXN-100844,CUST-1086,user_1086@retailcorp.com,2026-09-07T12:06:06,STORE-W41,West,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,Cash
+TXN-100845,CUST-1049,user_1049@retailcorp.com,2026-08-23T15:30:46,STORE-APP1,Online,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,12.58,Credit Card
+TXN-100846,CUST-1015,user_1015@retailcorp.com,2026-08-28T17:41:48,STORE-E32,East,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,Cash
+TXN-100847,CUST-1037,user_1037@retailcorp.com,2026-09-08T14:18:23,STORE-W41,West,PROD-201,Men Classic Denim Jacket,Apparel,89.0,5,0.0,Debit Card
+TXN-100848,CUST-1014,user_1014@retailcorp.com,2026-08-28T14:12:12,STORE-C50,Central,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,22.78,Debit Card
+TXN-100849,CUST-1121,user_1121@retailcorp.com,2026-09-24T18:36:21,STORE-C51,Central,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,0.0,Debit Card
+TXN-100850,CUST-1026,user_1026@retailcorp.com,2026-08-15T09:40:14,STORE-N11,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,0.0,Debit Card
+TXN-100851,CUST-1061,user_1061@retailcorp.com,2026-09-21T20:24:13,STORE-APP1,Online,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Credit Card
+TXN-100852,CUST-1092,user_1092@retailcorp.com,2026-08-02T17:07:09,STORE-N11,North,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,275.57,UPI
+TXN-100853,CUST-1011,user_1011@retailcorp.com,2026-08-19T11:14:56,STORE-S20,South,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,354.08,Debit Card
+TXN-100854,CUST-1045,user_1045@retailcorp.com,2026-09-23T13:58:06,STORE-N10,North,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,PayPal
+TXN-100855,CUST-1028,user_1028@retailcorp.com,2026-08-30T12:23:51,STORE-S21,South,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,5.81,Cash
+TXN-100856,CUST-1111,user_1111@retailcorp.com,2026-09-26T11:50:12,STORE-N10,North,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,UPI
+TXN-100857,CUST-1081,user_1081@retailcorp.com,2026-09-28T09:48:39,STORE-WEB1,Online,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,0.0,UPI
+TXN-100858,CUST-1038,user_1038@retailcorp.com,2026-09-10T21:17:55,STORE-S20,South,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,Cash
+TXN-100859,CUST-1125,user_1125@retailcorp.com,2026-09-20T16:50:42,STORE-WEB1,Online,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,31.38,Cash
+TXN-100860,CUST-1095,user_1095@retailcorp.com,2026-08-12T14:45:23,STORE-C51,Central,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,PayPal
+TXN-100861,CUST-1121,user_1121@retailcorp.com,2026-09-10T21:37:41,STORE-C51,Central,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,6.44,Debit Card
+TXN-100862,CUST-1101,user_1101@retailcorp.com,2026-09-26T15:36:10,STORE-E31,East,PROD-203,Waterproof Hiking Boots,Apparel,145.0,4,0.0,Cash
+TXN-100863,CUST-1021,user_1021@retailcorp.com,2026-08-29T17:22:14,STORE-N11,North,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,0.0,Cash
+TXN-100864,CUST-1086,user_1086@retailcorp.com,2026-08-28T15:23:51,STORE-W41,West,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,1.32,PayPal
+TXN-100865,CUST-1059,user_1059@retailcorp.com,2026-08-23T10:18:53,STORE-WEB1,Online,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,Credit Card
+TXN-100866,CUST-1070,user_1070@retailcorp.com,2026-08-05T14:02:34,STORE-N10,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,18.78,UPI
+TXN-100867,CUST-1070,user_1070@retailcorp.com,2026-09-24T21:45:47,STORE-WEB1,Online,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,24.0,UPI
+TXN-100868,CUST-1088,user_1088@retailcorp.com,2026-08-31T19:32:48,STORE-W40,West,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,4,0.0,Debit Card
+TXN-100869,CUST-1058,user_1058@retailcorp.com,2026-09-03T18:50:35,STORE-W40,West,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,0.0,PayPal
+TXN-100870,CUST-1087,user_1087@retailcorp.com,2026-08-28T21:44:26,STORE-E30,East,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,Cash
+TXN-100871,CUST-1007,user_1007@retailcorp.com,2026-08-20T20:00:31,STORE-S20,South,PROD-402,Cloud Native Architecture Guide,Books,49.99,3,0.0,UPI
+TXN-100872,CUST-1057,user_1057@retailcorp.com,2026-09-18T21:44:34,STORE-W41,West,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,Cash
+TXN-100873,CUST-1008,user_1008@retailcorp.com,2026-09-06T19:51:38,STORE-S21,South,PROD-201,Men Classic Denim Jacket,Apparel,89.0,3,0.0,PayPal
+TXN-100874,CUST-1097,user_1097@retailcorp.com,2026-09-04T15:12:30,STORE-W40,West,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,PayPal
+TXN-100875,CUST-1077,user_1077@retailcorp.com,2026-09-13T17:11:02,STORE-S20,South,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,3,0.0,Credit Card
+TXN-100876,CUST-1047,user_1047@retailcorp.com,2026-08-19T12:14:18,STORE-N11,North,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,17.0,Cash
+TXN-100877,CUST-1002,user_1002@retailcorp.com,2026-08-26T11:07:08,STORE-E31,East,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,Credit Card
+TXN-100878,CUST-1099,user_1099@retailcorp.com,2026-08-20T15:52:45,STORE-S20,South,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,39.52,UPI
+TXN-100879,CUST-1051,user_1051@retailcorp.com,2026-08-01T11:28:04,STORE-E30,East,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,3,0.0,Debit Card
+TXN-100880,CUST-1134,user_1134@retailcorp.com,2026-08-30T16:36:02,STORE-C51,Central,PROD-401,Designing Data-Intensive Applications,Books,45.0,2,16.39,PayPal
+TXN-100881,CUST-1088,user_1088@retailcorp.com,2026-08-27T12:11:57,STORE-W40,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,0.0,PayPal
+TXN-100882,CUST-1046,user_1046@retailcorp.com,2026-08-16T11:17:56,STORE-W40,West,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,187.07,Debit Card
+TXN-100883,CUST-1126,user_1126@retailcorp.com,2026-08-24T10:48:06,STORE-C50,Central,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,PayPal
+TXN-100884,CUST-1115,user_1115@retailcorp.com,2026-09-02T09:29:01,STORE-E30,East,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,PayPal
+TXN-100885,CUST-1097,user_1097@retailcorp.com,2026-09-24T12:25:02,STORE-APP1,Online,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,8.44,UPI
+TXN-100886,CUST-1118,user_1118@retailcorp.com,2026-08-06T17:42:15,STORE-W40,West,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,0.0,PayPal
+TXN-100887,CUST-1071,user_1071@retailcorp.com,2026-09-08T10:11:18,STORE-S20,South,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,Debit Card
+TXN-100888,CUST-1019,user_1019@retailcorp.com,2026-08-10T16:22:11,STORE-APP1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,302.36,Debit Card
+TXN-100889,CUST-1113,user_1113@retailcorp.com,2026-08-25T20:19:28,STORE-WEB1,Online,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,265.21,Debit Card
+TXN-100890,CUST-1063,user_1063@retailcorp.com,2026-08-06T09:26:01,STORE-S20,South,PROD-402,Cloud Native Architecture Guide,Books,49.99,5,0.0,Debit Card
+TXN-100891,CUST-1016,user_1016@retailcorp.com,2026-08-11T20:10:02,STORE-N12,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,18.72,Cash
+TXN-100892,CUST-1048,user_1048@retailcorp.com,2026-08-28T10:14:13,STORE-C51,Central,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,Credit Card
+TXN-100893,CUST-1102,user_1102@retailcorp.com,2026-08-14T16:14:04,STORE-N11,North,PROD-401,Designing Data-Intensive Applications,Books,45.0,2,12.92,Credit Card
+TXN-100894,CUST-1017,user_1017@retailcorp.com,2026-09-19T18:31:06,STORE-W41,West,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,0.0,Cash
+TXN-100895,CUST-1043,user_1043@retailcorp.com,2026-08-21T19:44:24,STORE-N12,North,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,2,0.0,Debit Card
+TXN-100896,CUST-1085,user_1085@retailcorp.com,2026-09-24T19:30:04,STORE-APP1,Online,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,Cash
+TXN-100897,CUST-1114,user_1114@retailcorp.com,2026-09-02T18:45:00,STORE-C50,Central,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Credit Card
+TXN-100898,CUST-1079,user_1079@retailcorp.com,2026-09-18T12:39:05,STORE-APP1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,UPI
+TXN-100899,CUST-1051,user_1051@retailcorp.com,2026-09-11T09:15:59,STORE-W40,West,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,0.0,PayPal
+TXN-100900,CUST-1084,user_1084@retailcorp.com,2026-09-11T21:48:02,STORE-E31,East,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,UPI
+TXN-100901,CUST-1006,user_1006@retailcorp.com,2026-08-22T12:13:34,STORE-APP1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,Debit Card
+TXN-100902,CUST-1056,user_1056@retailcorp.com,2026-08-12T16:40:00,STORE-C51,Central,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Debit Card
+TXN-100903,CUST-1013,user_1013@retailcorp.com,2026-08-06T11:37:35,STORE-S20,South,PROD-201,Men Classic Denim Jacket,Apparel,89.0,3,0.0,Debit Card
+TXN-100904,CUST-1129,user_1129@retailcorp.com,2026-08-20T11:46:12,STORE-W41,West,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,34.85,UPI
+TXN-100905,CUST-1147,user_1147@retailcorp.com,2026-08-18T21:30:05,STORE-WEB1,Online,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,4,0.0,PayPal
+TXN-100906,CUST-1042,user_1042@retailcorp.com,2026-09-02T18:47:27,STORE-W41,West,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,0.0,PayPal
+TXN-100907,CUST-1005,user_1005@retailcorp.com,2026-09-18T13:38:34,STORE-W40,West,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,UPI
+TXN-100908,CUST-1097,user_1097@retailcorp.com,2026-08-19T15:35:38,STORE-E31,East,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,0.0,PayPal
+TXN-100909,CUST-1050,user_1050@retailcorp.com,2026-08-01T17:46:46,STORE-S20,South,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,PayPal
+TXN-100910,CUST-1101,user_1101@retailcorp.com,2026-08-20T19:37:04,STORE-W41,West,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,9.41,PayPal
+TXN-100911,CUST-1144,user_1144@retailcorp.com,2026-08-17T21:58:48,STORE-S21,South,PROD-202,Women Merino Wool Sweater,Apparel,110.0,2,0.0,PayPal
+TXN-100912,CUST-1094,user_1094@retailcorp.com,2026-09-29T15:47:15,STORE-APP1,Online,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,274.98,Credit Card
+TXN-100913,CUST-1037,user_1037@retailcorp.com,2026-09-13T11:16:15,STORE-C51,Central,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,2,0.0,Debit Card
+TXN-100914,CUST-1003,user_1003@retailcorp.com,2026-09-15T15:25:45,STORE-N12,North,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,Cash
+TXN-100915,CUST-1048,user_1048@retailcorp.com,2026-08-17T20:19:32,STORE-S21,South,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,4,0.0,PayPal
+TXN-100916,CUST-1078,user_1078@retailcorp.com,2026-08-07T19:36:49,STORE-WEB1,Online,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,0.0,UPI
+TXN-100917,CUST-1053,user_1053@retailcorp.com,2026-08-01T11:52:31,STORE-APP1,Online,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,5.87,Cash
+TXN-100918,CUST-1106,user_1106@retailcorp.com,2026-08-11T11:23:11,STORE-APP1,Online,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,38.49,Credit Card
+TXN-100919,CUST-1115,user_1115@retailcorp.com,2026-08-04T20:11:51,STORE-S20,South,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,53.75,PayPal
+TXN-100920,CUST-1112,user_1112@retailcorp.com,2026-08-06T13:05:24,STORE-WEB1,Online,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,27.17,Debit Card
+TXN-100921,CUST-1122,user_1122@retailcorp.com,2026-08-01T09:17:48,STORE-WEB1,Online,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,4,0.0,Credit Card
+TXN-100922,CUST-1024,user_1024@retailcorp.com,2026-08-25T18:33:48,STORE-C50,Central,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,UPI
+TXN-100923,CUST-1109,user_1109@retailcorp.com,2026-09-26T14:20:52,STORE-E32,East,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,PayPal
+TXN-100924,CUST-1096,user_1096@retailcorp.com,2026-09-21T10:00:29,STORE-E31,East,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,3,0.0,Debit Card
+TXN-100925,CUST-1006,user_1006@retailcorp.com,2026-09-14T21:52:15,STORE-C51,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,PayPal
+TXN-100926,CUST-1131,user_1131@retailcorp.com,2026-08-01T19:52:20,STORE-WEB1,Online,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,Credit Card
+TXN-100927,CUST-1083,user_1083@retailcorp.com,2026-08-26T20:39:50,STORE-S21,South,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,0.0,PayPal
+TXN-100928,CUST-1025,user_1025@retailcorp.com,2026-08-13T20:09:55,STORE-E32,East,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Cash
+TXN-100929,CUST-1008,user_1008@retailcorp.com,2026-08-20T19:35:55,STORE-W40,West,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,Credit Card
+TXN-100930,CUST-1123,user_1123@retailcorp.com,2026-08-11T21:42:44,STORE-S20,South,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,Credit Card
+TXN-100931,CUST-1041,user_1041@retailcorp.com,2026-08-15T20:16:42,STORE-W41,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,Credit Card
+TXN-100932,CUST-1034,user_1034@retailcorp.com,2026-08-22T12:59:36,STORE-N12,North,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,0.0,UPI
+TXN-100933,CUST-1096,user_1096@retailcorp.com,2026-09-21T12:14:16,STORE-APP1,Online,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,2.41,Cash
+TXN-100934,CUST-1048,user_1048@retailcorp.com,2026-08-09T14:24:36,STORE-C51,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,Cash
+TXN-100935,CUST-1137,user_1137@retailcorp.com,2026-08-21T21:23:51,STORE-W41,West,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,0.0,Cash
+TXN-100936,CUST-1056,user_1056@retailcorp.com,2026-09-04T16:20:09,STORE-W40,West,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,3,124.0,PayPal
+TXN-100937,CUST-1037,user_1037@retailcorp.com,2026-09-08T14:19:32,STORE-S20,South,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,5,248.41,Cash
+TXN-100938,CUST-1122,user_1122@retailcorp.com,2026-09-15T15:03:51,STORE-W41,West,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,Debit Card
+TXN-100939,CUST-1057,user_1057@retailcorp.com,2026-09-16T15:19:52,STORE-S21,South,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,2,0.0,Credit Card
+TXN-100940,CUST-1140,user_1140@retailcorp.com,2026-09-13T16:22:48,STORE-E31,East,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,6.04,UPI
+TXN-100941,CUST-1049,user_1049@retailcorp.com,2026-08-21T21:50:37,STORE-N10,North,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,3,21.68,UPI
+TXN-100942,CUST-1117,user_1117@retailcorp.com,2026-08-29T20:30:18,STORE-C50,Central,PROD-202,Women Merino Wool Sweater,Apparel,110.0,3,56.32,Debit Card
+TXN-100943,CUST-1002,user_1002@retailcorp.com,2026-09-13T21:54:09,STORE-WEB1,Online,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,Debit Card
+TXN-100944,CUST-1014,user_1014@retailcorp.com,2026-08-12T09:07:32,STORE-E31,East,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,Debit Card
+TXN-100945,CUST-1103,user_1103@retailcorp.com,2026-08-16T15:31:19,STORE-N10,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,0.0,PayPal
+TXN-100946,CUST-1022,user_1022@retailcorp.com,2026-08-18T19:41:28,STORE-APP1,Online,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,18.66,PayPal
+TXN-100947,CUST-1130,user_1130@retailcorp.com,2026-09-06T18:30:17,STORE-N12,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,52.52,PayPal
+TXN-100948,CUST-1123,user_1123@retailcorp.com,2026-08-09T10:20:04,STORE-E32,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,0.0,Cash
+TXN-100949,CUST-1047,user_1047@retailcorp.com,2026-08-26T17:52:34,STORE-WEB1,Online,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,0.0,Credit Card
+TXN-100950,CUST-1132,user_1132@retailcorp.com,2026-08-12T18:44:11,STORE-S20,South,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,UPI
+TXN-100951,CUST-1031,user_1031@retailcorp.com,2026-09-11T11:05:35,STORE-S20,South,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,Credit Card
+TXN-100952,CUST-1031,user_1031@retailcorp.com,2026-08-11T15:42:00,STORE-E32,East,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,47.78,UPI
+TXN-100953,CUST-1136,user_1136@retailcorp.com,2026-09-14T14:33:58,STORE-S21,South,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,5,0.0,Cash
+TXN-100954,CUST-1130,user_1130@retailcorp.com,2026-09-12T09:15:02,STORE-WEB1,Online,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,25.36,Debit Card
+TXN-100955,CUST-1141,user_1141@retailcorp.com,2026-08-18T11:46:39,STORE-C51,Central,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,0.0,UPI
+TXN-100956,CUST-1097,user_1097@retailcorp.com,2026-08-06T13:43:27,STORE-W41,West,PROD-202,Women Merino Wool Sweater,Apparel,110.0,4,35.45,UPI
+TXN-100957,CUST-1049,user_1049@retailcorp.com,2026-08-27T11:20:50,STORE-C50,Central,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,7.03,Credit Card
+TXN-100958,CUST-1069,user_1069@retailcorp.com,2026-09-13T17:26:04,STORE-C50,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,93.01,UPI
+TXN-100959,CUST-1037,user_1037@retailcorp.com,2026-08-07T15:14:24,STORE-E30,East,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,4,0.0,Credit Card
+TXN-100960,CUST-1044,user_1044@retailcorp.com,2026-08-07T17:22:44,STORE-C51,Central,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,45.15,Credit Card
+TXN-100961,CUST-1012,user_1012@retailcorp.com,2026-08-12T14:51:47,STORE-E31,East,PROD-202,Women Merino Wool Sweater,Apparel,110.0,2,0.0,Cash
+TXN-100962,CUST-1103,user_1103@retailcorp.com,2026-08-17T09:43:32,STORE-C50,Central,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,0.0,Debit Card
+TXN-100963,CUST-1096,user_1096@retailcorp.com,2026-09-10T14:45:49,STORE-N12,North,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,PayPal
+TXN-100964,CUST-1046,user_1046@retailcorp.com,2026-09-02T13:17:27,STORE-E31,East,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,0.0,Debit Card
+TXN-100965,CUST-1078,user_1078@retailcorp.com,2026-09-19T14:54:05,STORE-E31,East,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,2,68.63,Credit Card
+TXN-100966,CUST-1042,user_1042@retailcorp.com,2026-08-19T17:59:31,STORE-N12,North,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,3,922.27,Cash
+TXN-100967,CUST-1034,user_1034@retailcorp.com,2026-08-26T09:39:12,STORE-W40,West,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,3,0.0,PayPal
+TXN-100968,CUST-1136,user_1136@retailcorp.com,2026-09-08T16:10:43,STORE-S20,South,PROD-402,Cloud Native Architecture Guide,Books,49.99,4,0.0,Debit Card
+TXN-100969,CUST-1044,user_1044@retailcorp.com,2026-09-02T14:03:27,STORE-E30,East,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,77.99,UPI
+TXN-100970,CUST-1063,user_1063@retailcorp.com,2026-08-31T13:16:13,STORE-E31,East,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,PayPal
+TXN-100971,CUST-1055,user_1055@retailcorp.com,2026-09-29T16:57:39,STORE-WEB1,Online,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,3,38.01,PayPal
+TXN-100972,CUST-1084,user_1084@retailcorp.com,2026-08-01T14:56:46,STORE-E30,East,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,Credit Card
+TXN-100973,CUST-1110,user_1110@retailcorp.com,2026-09-03T17:57:09,STORE-S20,South,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Credit Card
+TXN-100974,CUST-1039,user_1039@retailcorp.com,2026-08-26T14:19:23,STORE-S21,South,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,13.74,Credit Card
+TXN-100975,CUST-1112,user_1112@retailcorp.com,2026-08-23T20:27:00,STORE-S20,South,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,0.0,Debit Card
+TXN-100976,CUST-1028,user_1028@retailcorp.com,2026-08-09T15:26:47,STORE-E30,East,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,21.74,PayPal
+TXN-100977,CUST-1068,user_1068@retailcorp.com,2026-09-05T16:51:43,STORE-W41,West,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,PayPal
+TXN-100978,CUST-1128,user_1128@retailcorp.com,2026-08-07T21:01:08,STORE-S20,South,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Debit Card
+TXN-100979,CUST-1013,user_1013@retailcorp.com,2026-08-28T16:18:18,STORE-W40,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,Debit Card
+TXN-100980,CUST-1039,user_1039@retailcorp.com,2026-09-19T10:55:16,STORE-S21,South,PROD-202,Women Merino Wool Sweater,Apparel,110.0,5,95.2,Debit Card
+TXN-100981,CUST-1121,user_1121@retailcorp.com,2026-08-13T18:40:40,STORE-WEB1,Online,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,54.99,UPI
+TXN-100982,CUST-1049,user_1049@retailcorp.com,2026-09-09T12:05:55,STORE-W40,West,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,UPI
+TXN-100983,CUST-1059,user_1059@retailcorp.com,2026-08-31T09:32:27,STORE-E31,East,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,0.0,UPI
+TXN-100984,CUST-1093,user_1093@retailcorp.com,2026-08-27T12:20:57,STORE-E32,East,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,4.62,UPI
+TXN-100985,CUST-1054,user_1054@retailcorp.com,2026-09-28T18:06:27,STORE-W41,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,UPI
+TXN-100986,CUST-1085,user_1085@retailcorp.com,2026-09-12T09:43:35,STORE-N10,North,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,51.83,UPI
+TXN-100987,CUST-1135,user_1135@retailcorp.com,2026-08-14T18:24:05,STORE-S21,South,PROD-402,Cloud Native Architecture Guide,Books,49.99,3,24.2,Credit Card
+TXN-100988,CUST-1010,user_1010@retailcorp.com,2026-09-29T10:04:34,STORE-S21,South,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,0.0,PayPal
+TXN-100989,CUST-1051,user_1051@retailcorp.com,2026-08-13T15:35:45,STORE-N10,North,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,Cash
+TXN-100990,CUST-1088,user_1088@retailcorp.com,2026-09-28T15:04:30,STORE-W40,West,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,Cash
+TXN-100991,CUST-1005,user_1005@retailcorp.com,2026-09-14T11:18:02,STORE-C51,Central,PROD-202,Women Merino Wool Sweater,Apparel,110.0,4,86.18,Debit Card
+TXN-100992,CUST-1101,user_1101@retailcorp.com,2026-08-11T16:48:32,STORE-WEB1,Online,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,PayPal
+TXN-100993,CUST-1069,user_1069@retailcorp.com,2026-08-11T18:13:37,STORE-S20,South,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,0.0,Cash
+TXN-100994,CUST-1116,user_1116@retailcorp.com,2026-08-19T20:17:35,STORE-E30,East,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,10.4,UPI
+TXN-100995,CUST-1010,user_1010@retailcorp.com,2026-08-18T21:03:41,STORE-E30,East,PROD-201,Men Classic Denim Jacket,Apparel,89.0,5,0.0,Debit Card
+TXN-100996,CUST-1136,user_1136@retailcorp.com,2026-08-23T19:38:23,STORE-N12,North,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,Cash
+TXN-100997,CUST-1067,user_1067@retailcorp.com,2026-08-21T09:40:52,STORE-W41,West,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,UPI
+TXN-100998,CUST-1045,user_1045@retailcorp.com,2026-09-12T21:49:37,STORE-N12,North,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,PayPal
+TXN-100999,CUST-1065,user_1065@retailcorp.com,2026-08-21T13:13:37,STORE-W40,West,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,0.0,PayPal
+TXN-101000,CUST-1039,user_1039@retailcorp.com,2026-08-24T11:57:30,STORE-S21,South,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,23.25,Debit Card
+TXN-101001,CUST-1048,user_1048@retailcorp.com,2026-09-11T13:01:19,STORE-WEB1,Online,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,130.96,Cash
+TXN-101002,CUST-1048,user_1048@retailcorp.com,2026-08-28T12:29:58,STORE-S20,South,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,2,0.0,Cash
+TXN-101003,CUST-1035,user_1035@retailcorp.com,2026-08-25T15:01:07,STORE-C50,Central,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,3,0.0,Credit Card
+TXN-101004,CUST-1033,user_1033@retailcorp.com,2026-08-10T19:38:00,STORE-N11,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,63.79,Cash
+TXN-101005,CUST-1086,user_1086@retailcorp.com,2026-08-31T21:36:57,STORE-S20,South,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,39.81,Debit Card
+TXN-101006,CUST-1062,user_1062@retailcorp.com,2026-09-10T17:07:01,STORE-C51,Central,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,3,453.37,Cash
+TXN-101007,CUST-1106,user_1106@retailcorp.com,2026-08-02T12:27:24,STORE-N10,North,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,Debit Card
+TXN-101008,CUST-1098,user_1098@retailcorp.com,2026-08-08T12:06:18,STORE-W40,West,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,Credit Card
+TXN-101009,CUST-1092,user_1092@retailcorp.com,2026-08-10T11:27:33,STORE-N12,North,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,45.4,UPI
+TXN-101010,CUST-1073,user_1073@retailcorp.com,2026-09-28T16:42:23,STORE-N11,North,PROD-402,Cloud Native Architecture Guide,Books,49.99,4,0.0,Credit Card
+TXN-101011,CUST-1000,user_1000@retailcorp.com,2026-08-21T11:24:28,STORE-WEB1,Online,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,0.0,PayPal
+TXN-101012,CUST-1017,user_1017@retailcorp.com,2026-09-16T13:09:05,STORE-C51,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,82.4,UPI
+TXN-101013,CUST-1081,user_1081@retailcorp.com,2026-09-14T15:38:50,STORE-W41,West,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,459.85,Debit Card
+TXN-101014,CUST-1098,user_1098@retailcorp.com,2026-09-04T17:31:34,STORE-C51,Central,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,1.53,PayPal
+TXN-101015,CUST-1134,user_1134@retailcorp.com,2026-08-16T14:00:13,STORE-WEB1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,5,126.4,Debit Card
+TXN-101016,CUST-1028,user_1028@retailcorp.com,2026-09-24T21:52:08,STORE-E31,East,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,284.62,PayPal
+TXN-101017,CUST-1062,user_1062@retailcorp.com,2026-09-17T11:07:44,STORE-S20,South,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,0.0,Credit Card
+TXN-101018,CUST-1108,user_1108@retailcorp.com,2026-08-07T19:37:04,STORE-N12,North,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,0.0,Debit Card
+TXN-101019,CUST-1007,user_1007@retailcorp.com,2026-08-06T12:04:00,STORE-E30,East,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,0.0,Debit Card
+TXN-101020,CUST-1046,user_1046@retailcorp.com,2026-09-17T17:44:19,STORE-WEB1,Online,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,PayPal
+TXN-101021,CUST-1003,user_1003@retailcorp.com,2026-08-04T19:02:38,STORE-N10,North,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,0.0,Credit Card
+TXN-101022,CUST-1101,user_1101@retailcorp.com,2026-09-05T20:53:16,STORE-APP1,Online,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,3,0.0,Debit Card
+TXN-101023,CUST-1108,user_1108@retailcorp.com,2026-09-03T15:08:47,STORE-E30,East,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,Debit Card
+TXN-101024,CUST-1100,user_1100@retailcorp.com,2026-09-22T20:29:30,STORE-WEB1,Online,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,PayPal
+TXN-101025,CUST-1042,user_1042@retailcorp.com,2026-08-28T12:17:06,STORE-E32,East,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,UPI
+TXN-101026,CUST-1007,user_1007@retailcorp.com,2026-09-04T10:04:13,STORE-E30,East,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,0.0,UPI
+TXN-101027,CUST-1048,user_1048@retailcorp.com,2026-08-16T13:05:36,STORE-WEB1,Online,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,0.0,PayPal
+TXN-101028,CUST-1011,user_1011@retailcorp.com,2026-08-20T09:22:48,STORE-E30,East,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,Debit Card
+TXN-101029,CUST-1080,user_1080@retailcorp.com,2026-08-09T20:43:06,STORE-APP1,Online,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Cash
+TXN-101030,CUST-1025,user_1025@retailcorp.com,2026-09-20T15:30:37,STORE-N12,North,PROD-201,Men Classic Denim Jacket,Apparel,89.0,3,19.81,PayPal
+TXN-101031,CUST-1020,user_1020@retailcorp.com,2026-09-26T12:51:43,STORE-WEB1,Online,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,2,0.0,Debit Card
+TXN-101032,CUST-1128,user_1128@retailcorp.com,2026-08-22T13:23:39,STORE-W40,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,3,0.0,PayPal
+TXN-101033,CUST-1061,user_1061@retailcorp.com,2026-08-10T18:40:31,STORE-C50,Central,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,23.92,UPI
+TXN-101034,CUST-1140,user_1140@retailcorp.com,2026-08-30T14:10:59,STORE-W40,West,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,54.45,UPI
+TXN-101035,CUST-1022,user_1022@retailcorp.com,2026-08-17T16:16:48,STORE-S21,South,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,3,0.0,Debit Card
+TXN-101036,CUST-1031,user_1031@retailcorp.com,2026-09-24T13:25:26,STORE-N11,North,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,3,0.0,Debit Card
+TXN-101037,CUST-1112,user_1112@retailcorp.com,2026-08-24T10:43:26,STORE-C51,Central,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,9.06,Credit Card
+TXN-101038,CUST-1014,user_1014@retailcorp.com,2026-08-10T10:18:24,STORE-WEB1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,Credit Card
+TXN-101039,CUST-1057,user_1057@retailcorp.com,2026-08-23T16:29:41,STORE-W40,West,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,Credit Card
+TXN-101040,CUST-1021,user_1021@retailcorp.com,2026-09-28T15:49:27,STORE-WEB1,Online,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,UPI
+TXN-101041,CUST-1087,user_1087@retailcorp.com,2026-08-08T13:29:02,STORE-S21,South,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Debit Card
+TXN-101042,CUST-1054,user_1054@retailcorp.com,2026-09-08T21:24:03,STORE-C50,Central,PROD-401,Designing Data-Intensive Applications,Books,45.0,4,0.0,PayPal
+TXN-101043,CUST-1121,user_1121@retailcorp.com,2026-09-25T09:48:43,STORE-N10,North,PROD-203,Waterproof Hiking Boots,Apparel,145.0,1,11.08,Debit Card
+TXN-101044,CUST-1017,user_1017@retailcorp.com,2026-08-20T20:28:55,STORE-W40,West,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,14.72,Debit Card
+TXN-101045,CUST-1013,user_1013@retailcorp.com,2026-09-18T13:10:12,STORE-W41,West,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,PayPal
+TXN-101046,CUST-1137,user_1137@retailcorp.com,2026-08-23T20:36:24,STORE-APP1,Online,PROD-202,Women Merino Wool Sweater,Apparel,110.0,3,0.0,Cash
+TXN-101047,CUST-1050,user_1050@retailcorp.com,2026-08-21T19:52:46,STORE-WEB1,Online,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,2,0.0,UPI
+TXN-101048,CUST-1003,user_1003@retailcorp.com,2026-09-01T14:07:50,STORE-W40,West,PROD-201,Men Classic Denim Jacket,Apparel,89.0,4,0.0,Cash
+TXN-101049,CUST-1000,user_1000@retailcorp.com,2026-09-10T18:06:02,STORE-S21,South,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,1,0.0,PayPal
+TXN-101050,CUST-1139,user_1139@retailcorp.com,2026-08-14T14:13:12,STORE-C51,Central,PROD-202,Women Merino Wool Sweater,Apparel,110.0,5,0.0,Credit Card
+TXN-101051,CUST-1094,user_1094@retailcorp.com,2026-09-27T13:32:52,STORE-N11,North,PROD-402,Cloud Native Architecture Guide,Books,49.99,3,0.0,PayPal
+TXN-101052,CUST-1105,user_1105@retailcorp.com,2026-09-23T17:27:33,STORE-E31,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,5,0.0,Debit Card
+TXN-101053,CUST-1117,user_1117@retailcorp.com,2026-09-05T18:10:34,STORE-E30,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,3.65,PayPal
+TXN-101054,CUST-1072,user_1072@retailcorp.com,2026-08-06T19:01:39,STORE-N10,North,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,4,324.33,Cash
+TXN-101055,CUST-1139,user_1139@retailcorp.com,2026-09-02T18:51:02,STORE-APP1,Online,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,Debit Card
+TXN-101056,CUST-1057,user_1057@retailcorp.com,2026-08-08T12:54:30,STORE-C51,Central,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,4,0.0,PayPal
+TXN-101057,CUST-1105,user_1105@retailcorp.com,2026-09-20T12:32:18,STORE-N11,North,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,0.0,UPI
+TXN-101058,CUST-1106,user_1106@retailcorp.com,2026-08-03T09:01:09,STORE-N11,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,0.0,Cash
+TXN-101059,CUST-1081,user_1081@retailcorp.com,2026-08-16T17:25:12,STORE-S21,South,PROD-401,Designing Data-Intensive Applications,Books,45.0,2,0.0,Credit Card
+TXN-101060,CUST-1147,user_1147@retailcorp.com,2026-09-16T11:25:57,STORE-S21,South,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,2.07,Debit Card
+TXN-101061,CUST-1129,user_1129@retailcorp.com,2026-09-23T21:40:58,STORE-APP1,Online,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,UPI
+TXN-101062,CUST-1052,user_1052@retailcorp.com,2026-08-28T09:40:49,STORE-N10,North,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,2,124.6,Credit Card
+TXN-101063,CUST-1146,user_1146@retailcorp.com,2026-09-16T11:29:40,STORE-N12,North,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,0.0,Debit Card
+TXN-101064,CUST-1056,user_1056@retailcorp.com,2026-09-16T21:51:50,STORE-S20,South,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,14.38,Credit Card
+TXN-101065,CUST-1036,user_1036@retailcorp.com,2026-08-08T16:59:38,STORE-WEB1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,178.51,Debit Card
+TXN-101066,CUST-1023,user_1023@retailcorp.com,2026-09-28T12:25:06,STORE-W41,West,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,24.35,Credit Card
+TXN-101067,CUST-1053,user_1053@retailcorp.com,2026-09-10T16:51:10,STORE-W41,West,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,1.88,Cash
+TXN-101068,CUST-1008,user_1008@retailcorp.com,2026-08-31T18:38:34,STORE-E31,East,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,UPI
+TXN-101069,CUST-1031,user_1031@retailcorp.com,2026-09-04T09:33:32,STORE-C50,Central,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,30.37,Debit Card
+TXN-101070,CUST-1007,user_1007@retailcorp.com,2026-08-06T20:44:08,STORE-S20,South,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,0.0,Credit Card
+TXN-101071,CUST-1089,user_1089@retailcorp.com,2026-08-28T17:25:59,STORE-W41,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,38.11,UPI
+TXN-101072,CUST-1100,user_1100@retailcorp.com,2026-08-11T21:13:46,STORE-C51,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,PayPal
+TXN-101073,CUST-1069,user_1069@retailcorp.com,2026-09-08T15:27:12,STORE-C50,Central,PROD-401,Designing Data-Intensive Applications,Books,45.0,2,0.0,Credit Card
+TXN-101074,CUST-1115,user_1115@retailcorp.com,2026-08-17T18:26:18,STORE-N12,North,PROD-202,Women Merino Wool Sweater,Apparel,110.0,2,0.0,Cash
+TXN-101075,CUST-1090,user_1090@retailcorp.com,2026-08-12T21:20:27,STORE-N10,North,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,0.0,Credit Card
+TXN-101076,CUST-1055,user_1055@retailcorp.com,2026-09-19T14:07:00,STORE-E30,East,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,4.97,PayPal
+TXN-101077,CUST-1145,user_1145@retailcorp.com,2026-08-25T13:38:13,STORE-S20,South,PROD-401,Designing Data-Intensive Applications,Books,45.0,1,4.13,Cash
+TXN-101078,CUST-1019,user_1019@retailcorp.com,2026-08-21T14:12:12,STORE-APP1,Online,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,Credit Card
+TXN-101079,CUST-1070,user_1070@retailcorp.com,2026-08-29T11:38:20,STORE-N10,North,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,2.61,Credit Card
+TXN-101080,CUST-1147,user_1147@retailcorp.com,2026-08-09T15:02:57,STORE-W41,West,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,1,0.0,UPI
+TXN-101081,CUST-1004,user_1004@retailcorp.com,2026-09-23T21:26:46,STORE-W40,West,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,UPI
+TXN-101082,CUST-1102,user_1102@retailcorp.com,2026-09-01T18:03:25,STORE-C51,Central,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,PayPal
+TXN-101083,CUST-1031,user_1031@retailcorp.com,2026-08-02T12:03:52,STORE-C50,Central,PROD-402,Cloud Native Architecture Guide,Books,49.99,1,4.92,PayPal
+TXN-101084,CUST-1057,user_1057@retailcorp.com,2026-09-16T21:23:52,STORE-N10,North,PROD-202,Women Merino Wool Sweater,Apparel,110.0,3,0.0,Credit Card
+TXN-101085,CUST-1066,user_1066@retailcorp.com,2026-08-20T10:16:21,STORE-N10,North,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,2,0.0,PayPal
+TXN-101086,CUST-1069,user_1069@retailcorp.com,2026-08-08T11:20:55,STORE-S21,South,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,PayPal
+TXN-101087,CUST-1114,user_1114@retailcorp.com,2026-09-06T16:42:31,STORE-C50,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,5,0.0,PayPal
+TXN-101088,CUST-1057,user_1057@retailcorp.com,2026-09-15T10:22:35,STORE-E31,East,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,3,176.04,Debit Card
+TXN-101089,CUST-1019,user_1019@retailcorp.com,2026-08-14T09:42:13,STORE-W40,West,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,1,0.0,PayPal
+TXN-101090,CUST-1026,user_1026@retailcorp.com,2026-09-18T13:45:29,STORE-S21,South,PROD-401,Designing Data-Intensive Applications,Books,45.0,2,0.0,Credit Card
+TXN-101091,CUST-1033,user_1033@retailcorp.com,2026-08-29T18:32:12,STORE-E31,East,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,34.65,Debit Card
+TXN-101092,CUST-1078,user_1078@retailcorp.com,2026-09-26T10:47:07,STORE-S21,South,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,1,0.0,Debit Card
+TXN-101093,CUST-1068,user_1068@retailcorp.com,2026-08-23T13:07:59,STORE-W41,West,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,0.0,Debit Card
+TXN-101094,CUST-1038,user_1038@retailcorp.com,2026-09-02T14:03:28,STORE-C51,Central,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,1,5.6,PayPal
+TXN-101095,CUST-1049,user_1049@retailcorp.com,2026-08-12T18:17:33,STORE-S21,South,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,0.0,Credit Card
+TXN-101096,CUST-1012,user_1012@retailcorp.com,2026-08-08T09:57:02,STORE-N10,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,49.07,UPI
+TXN-101097,CUST-1057,user_1057@retailcorp.com,2026-08-07T12:46:52,STORE-W41,West,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,3,9.22,Debit Card
+TXN-101098,CUST-1088,user_1088@retailcorp.com,2026-09-16T09:06:11,STORE-APP1,Online,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,1,0.0,PayPal
+TXN-101099,CUST-1078,user_1078@retailcorp.com,2026-09-13T10:10:11,STORE-S21,South,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,1,0.0,Credit Card
+TXN-101100,CUST-1121,user_1121@retailcorp.com,2026-08-12T13:56:04,STORE-E30,East,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,1,0.0,Credit Card
+TXN-101101,CUST-1090,user_1090@retailcorp.com,2026-09-01T12:30:07,STORE-C50,Central,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,182.41,UPI
+TXN-101102,CUST-1058,user_1058@retailcorp.com,2026-08-07T13:51:47,STORE-S20,South,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,0.0,UPI
+TXN-101103,CUST-1139,user_1139@retailcorp.com,2026-08-17T14:29:00,STORE-APP1,Online,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,3,0.0,UPI
+TXN-101104,CUST-1132,user_1132@retailcorp.com,2026-09-13T17:46:40,STORE-N11,North,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,1,0.0,Debit Card
+TXN-101105,CUST-1036,user_1036@retailcorp.com,2026-08-16T18:47:44,STORE-W40,West,PROD-402,Cloud Native Architecture Guide,Books,49.99,5,0.0,Credit Card
+TXN-101106,CUST-1049,user_1049@retailcorp.com,2026-08-18T19:43:34,STORE-WEB1,Online,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,3,0.0,Cash
+TXN-101107,CUST-1044,user_1044@retailcorp.com,2026-09-26T14:25:37,STORE-APP1,Online,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,UPI
+TXN-101108,CUST-1048,user_1048@retailcorp.com,2026-09-23T18:07:27,STORE-C51,Central,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,2,0.0,UPI
+TXN-101109,CUST-1073,user_1073@retailcorp.com,2026-09-29T19:09:29,STORE-N11,North,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,0.0,UPI
+TXN-101110,CUST-1142,user_1142@retailcorp.com,2026-08-19T10:51:18,STORE-E31,East,PROD-202,Women Merino Wool Sweater,Apparel,110.0,1,10.17,Cash
+TXN-101111,CUST-1031,user_1031@retailcorp.com,2026-08-01T15:22:42,STORE-W41,West,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,3,338.95,UPI
+TXN-101112,CUST-1128,user_1128@retailcorp.com,2026-08-18T11:46:12,STORE-N12,North,PROD-201,Men Classic Denim Jacket,Apparel,89.0,1,0.0,UPI
+TXN-101113,CUST-1056,user_1056@retailcorp.com,2026-08-16T21:43:40,STORE-W41,West,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,1,0.0,Credit Card
+TXN-101114,CUST-1066,user_1066@retailcorp.com,2026-08-12T18:27:43,STORE-C51,Central,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,3,0.0,Debit Card
+TXN-101115,CUST-1051,user_1051@retailcorp.com,2026-09-05T12:19:19,STORE-S21,South,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,1,0.0,PayPal
+TXN-101116,CUST-1139,user_1139@retailcorp.com,2026-08-07T11:33:28,STORE-W41,West,PROD-202,Women Merino Wool Sweater,Apparel,110.0,2,0.0,UPI
+TXN-101117,,,2026-08-01T19:00:00,STORE-W41,West,PROD-402,Cloud Native Architecture Guide,Books,49.99,2,10.0,PayPal
+TXN-101118,CUST-1105,user_1105@retailcorp.com,2026-08-02T19:00:00,STORE-N12,North,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,-3,10.0,Credit Card
+TXN-101119,CUST-1107,user_1107@retailcorp.com,2026-08-03T19:00:00,STORE-S21,South,PROD-103,Sony WH-1000XM5 Headphones,Electronics,-50.0,2,10.0,Debit Card
+TXN-101120,CUST-1148,user_1148@retailcorp.com,2026-08-04T19:00:00,STORE-S21,South,PROD-402,Cloud Native Architecture Guide,Books,50.0,1,120.0,Credit Card
+TXN-101121,CUST-1100,user_1100@retailcorp.com,2026-99-99 25:99:99_INVALID,STORE-W40,West,PROD-201,Men Classic Denim Jacket,Apparel,89.0,2,10.0,PayPal
+TXN-101122,CUST-1132,user_1132@retailcorp.com,2026-08-06T19:00:00,STORE-N10,Antarctica_Zone,PROD-601,Adjustable Dumbbell Set,Sports & Outdoors,299.0,2,10.0,Credit Card
+TXN-100005,CUST-1069,user_1069@retailcorp.com,2026-08-07T19:00:00,STORE-E32,East,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,10.0,Credit Card
+TXN-101124,,,2026-08-08T19:00:00,STORE-APP1,Online,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,10.0,Credit Card
+TXN-101125,CUST-1031,user_1031@retailcorp.com,2026-08-09T19:00:00,STORE-WEB1,Online,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,-3,10.0,Cash
+TXN-101126,CUST-1036,user_1036@retailcorp.com,2026-08-10T19:00:00,STORE-S20,South,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,-50.0,2,10.0,Debit Card
+TXN-101127,CUST-1077,user_1077@retailcorp.com,2026-08-11T19:00:00,STORE-WEB1,Online,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,50.0,1,120.0,PayPal
+TXN-101128,CUST-1051,user_1051@retailcorp.com,2026-99-99 25:99:99_INVALID,STORE-N10,North,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,10.0,Debit Card
+TXN-101129,CUST-1030,user_1030@retailcorp.com,2026-08-13T19:00:00,STORE-S20,Antarctica_Zone,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,10.0,Credit Card
+TXN-100005,CUST-1121,user_1121@retailcorp.com,2026-08-14T19:00:00,STORE-C51,Central,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,10.0,PayPal
+TXN-101131,,,2026-08-15T19:00:00,STORE-E31,East,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,10.0,PayPal
+TXN-101132,CUST-1047,user_1047@retailcorp.com,2026-08-16T19:00:00,STORE-C51,Central,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,-3,10.0,Cash
+TXN-101133,CUST-1112,user_1112@retailcorp.com,2026-08-17T19:00:00,STORE-W40,West,PROD-104,Samsung 4K Smart Monitor,Electronics,-50.0,2,10.0,Credit Card
+TXN-101134,CUST-1047,user_1047@retailcorp.com,2026-08-18T19:00:00,STORE-WEB1,Online,PROD-201,Men Classic Denim Jacket,Apparel,50.0,1,120.0,Debit Card
+TXN-101135,CUST-1130,user_1130@retailcorp.com,2026-99-99 25:99:99_INVALID,STORE-W41,West,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,10.0,UPI
+TXN-101136,CUST-1074,user_1074@retailcorp.com,2026-08-20T19:00:00,STORE-C51,Antarctica_Zone,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,10.0,UPI
+TXN-100005,CUST-1070,user_1070@retailcorp.com,2026-08-21T19:00:00,STORE-W40,West,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,10.0,PayPal
+TXN-101138,,,2026-08-22T19:00:00,STORE-S20,South,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,10.0,UPI
+TXN-101139,CUST-1117,user_1117@retailcorp.com,2026-08-23T19:00:00,STORE-C51,Central,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,-3,10.0,Credit Card
+TXN-101140,CUST-1148,user_1148@retailcorp.com,2026-08-24T19:00:00,STORE-N12,North,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,-50.0,2,10.0,Cash
+TXN-101141,CUST-1113,user_1113@retailcorp.com,2026-08-25T19:00:00,STORE-E30,East,PROD-102,Dell XPS 15 Laptop,Electronics,50.0,1,120.0,PayPal
+TXN-101142,CUST-1117,user_1117@retailcorp.com,2026-99-99 25:99:99_INVALID,STORE-N10,North,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,79.99,2,10.0,UPI
+TXN-101143,CUST-1128,user_1128@retailcorp.com,2026-08-27T19:00:00,STORE-E32,Antarctica_Zone,PROD-203,Waterproof Hiking Boots,Apparel,145.0,2,10.0,Cash
+TXN-100005,CUST-1099,user_1099@retailcorp.com,2026-08-28T19:00:00,STORE-S20,South,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,2,10.0,UPI
+TXN-101145,,,2026-08-29T19:00:00,STORE-W40,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,2,10.0,UPI
+TXN-101146,CUST-1077,user_1077@retailcorp.com,2026-08-30T19:00:00,STORE-N12,North,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,-3,10.0,PayPal
+TXN-101147,CUST-1096,user_1096@retailcorp.com,2026-08-01T19:00:00,STORE-C50,Central,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,-50.0,2,10.0,Cash
+TXN-101148,CUST-1129,user_1129@retailcorp.com,2026-08-02T19:00:00,STORE-S21,South,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,50.0,1,120.0,Cash
+TXN-101149,CUST-1148,user_1148@retailcorp.com,2026-99-99 25:99:99_INVALID,STORE-C51,Central,PROD-402,Cloud Native Architecture Guide,Books,49.99,2,10.0,Credit Card
+TXN-101150,CUST-1011,user_1011@retailcorp.com,2026-08-04T19:00:00,STORE-WEB1,Antarctica_Zone,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,10.0,Debit Card
+TXN-100005,CUST-1024,user_1024@retailcorp.com,2026-08-05T19:00:00,STORE-W41,West,PROD-104,Samsung 4K Smart Monitor,Electronics,499.0,2,10.0,UPI
+TXN-101152,,,2026-08-06T19:00:00,STORE-N10,North,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,10.0,PayPal
+TXN-101153,CUST-1107,user_1107@retailcorp.com,2026-08-07T19:00:00,STORE-N12,North,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,-3,10.0,UPI
+TXN-101154,CUST-1029,user_1029@retailcorp.com,2026-08-08T19:00:00,STORE-WEB1,Online,PROD-102,Dell XPS 15 Laptop,Electronics,-50.0,2,10.0,PayPal
+TXN-101155,CUST-1095,user_1095@retailcorp.com,2026-08-09T19:00:00,STORE-S21,South,PROD-101,Apple MacBook Pro 14,Electronics,50.0,1,120.0,Credit Card
+TXN-101156,CUST-1115,user_1115@retailcorp.com,2026-99-99 25:99:99_INVALID,STORE-S20,South,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,10.0,Debit Card
+TXN-101157,CUST-1064,user_1064@retailcorp.com,2026-08-11T19:00:00,STORE-W41,Antarctica_Zone,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,10.0,Debit Card
+TXN-100005,CUST-1051,user_1051@retailcorp.com,2026-08-12T19:00:00,STORE-W40,West,PROD-202,Women Merino Wool Sweater,Apparel,110.0,2,10.0,Credit Card
+TXN-101159,,,2026-08-13T19:00:00,STORE-WEB1,Online,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,10.0,Debit Card
+TXN-101160,CUST-1008,user_1008@retailcorp.com,2026-08-14T19:00:00,STORE-N11,North,PROD-201,Men Classic Denim Jacket,Apparel,89.0,-3,10.0,PayPal
+TXN-101161,CUST-1145,user_1145@retailcorp.com,2026-08-15T19:00:00,STORE-E30,East,PROD-103,Sony WH-1000XM5 Headphones,Electronics,-50.0,2,10.0,Cash
+TXN-101162,CUST-1127,user_1127@retailcorp.com,2026-08-16T19:00:00,STORE-S21,South,PROD-203,Waterproof Hiking Boots,Apparel,50.0,1,120.0,Cash
+TXN-101163,CUST-1090,user_1090@retailcorp.com,2026-99-99 25:99:99_INVALID,STORE-C50,Central,PROD-402,Cloud Native Architecture Guide,Books,49.99,2,10.0,Credit Card
+TXN-101164,CUST-1112,user_1112@retailcorp.com,2026-08-18T19:00:00,STORE-APP1,Antarctica_Zone,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,10.0,Credit Card
+TXN-100005,CUST-1145,user_1145@retailcorp.com,2026-08-19T19:00:00,STORE-S21,South,PROD-103,Sony WH-1000XM5 Headphones,Electronics,399.0,2,10.0,Credit Card
+TXN-101166,,,2026-08-20T19:00:00,STORE-S20,South,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,10.0,Cash
+TXN-101167,CUST-1138,user_1138@retailcorp.com,2026-08-21T19:00:00,STORE-N10,North,PROD-401,Designing Data-Intensive Applications,Books,45.0,-3,10.0,UPI
+TXN-101168,CUST-1064,user_1064@retailcorp.com,2026-08-22T19:00:00,STORE-APP1,Online,PROD-501,Hydrating Face Serum,Health & Beauty,-50.0,2,10.0,Credit Card
+TXN-101169,CUST-1040,user_1040@retailcorp.com,2026-08-23T19:00:00,STORE-N12,North,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,50.0,1,120.0,Cash
+TXN-101170,CUST-1061,user_1061@retailcorp.com,2026-99-99 25:99:99_INVALID,STORE-W40,West,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,10.0,Cash
+TXN-101171,CUST-1028,user_1028@retailcorp.com,2026-08-25T19:00:00,STORE-E32,Antarctica_Zone,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,10.0,Credit Card
+TXN-100005,CUST-1008,user_1008@retailcorp.com,2026-08-26T19:00:00,STORE-W41,West,PROD-401,Designing Data-Intensive Applications,Books,45.0,2,10.0,Debit Card
+TXN-101173,,,2026-08-27T19:00:00,STORE-S20,South,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,2,10.0,Cash
+TXN-101174,CUST-1084,user_1084@retailcorp.com,2026-08-28T19:00:00,STORE-S21,South,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,-3,10.0,Credit Card
+TXN-101175,CUST-1144,user_1144@retailcorp.com,2026-08-29T19:00:00,STORE-E30,East,PROD-102,Dell XPS 15 Laptop,Electronics,-50.0,2,10.0,PayPal
+TXN-101176,CUST-1020,user_1020@retailcorp.com,2026-08-30T19:00:00,STORE-S21,South,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,50.0,1,120.0,Credit Card
+TXN-101177,CUST-1026,user_1026@retailcorp.com,2026-99-99 25:99:99_INVALID,STORE-W40,West,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,2,10.0,UPI
+TXN-101178,CUST-1110,user_1110@retailcorp.com,2026-08-02T19:00:00,STORE-E30,Antarctica_Zone,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,10.0,Credit Card
+TXN-100005,CUST-1014,user_1014@retailcorp.com,2026-08-03T19:00:00,STORE-S21,South,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,10.0,Credit Card
+TXN-101180,,,2026-08-04T19:00:00,STORE-N11,North,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,1200.0,2,10.0,PayPal
+TXN-101181,CUST-1032,user_1032@retailcorp.com,2026-08-05T19:00:00,STORE-APP1,Online,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,-3,10.0,Cash
+TXN-101182,CUST-1035,user_1035@retailcorp.com,2026-08-06T19:00:00,STORE-W40,West,PROD-104,Samsung 4K Smart Monitor,Electronics,-50.0,2,10.0,Cash
+TXN-101183,CUST-1094,user_1094@retailcorp.com,2026-08-07T19:00:00,STORE-S21,South,PROD-402,Cloud Native Architecture Guide,Books,50.0,1,120.0,PayPal
+TXN-101184,CUST-1014,user_1014@retailcorp.com,2026-99-99 25:99:99_INVALID,STORE-S20,South,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,10.0,Cash
+TXN-101185,CUST-1002,user_1002@retailcorp.com,2026-08-09T19:00:00,STORE-W40,Antarctica_Zone,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,10.0,Credit Card
+TXN-100005,CUST-1063,user_1063@retailcorp.com,2026-08-10T19:00:00,STORE-N10,North,PROD-102,Dell XPS 15 Laptop,Electronics,1599.0,2,10.0,Debit Card
+TXN-101187,,,2026-08-11T19:00:00,STORE-E30,East,PROD-202,Women Merino Wool Sweater,Apparel,110.0,2,10.0,UPI
+TXN-101188,CUST-1089,user_1089@retailcorp.com,2026-08-12T19:00:00,STORE-E30,East,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,-3,10.0,Cash
+TXN-101189,CUST-1101,user_1101@retailcorp.com,2026-08-13T19:00:00,STORE-WEB1,Online,PROD-602,Carbon Fiber Road Bike,Sports & Outdoors,-50.0,2,10.0,Credit Card
+TXN-101190,CUST-1019,user_1019@retailcorp.com,2026-08-14T19:00:00,STORE-C50,Central,PROD-302,Cast Iron Dutch Oven 6Qt,Home & Kitchen,50.0,1,120.0,PayPal
+TXN-101191,CUST-1091,user_1091@retailcorp.com,2026-99-99 25:99:99_INVALID,STORE-W41,West,PROD-301,Nespresso Espresso Maker,Home & Kitchen,189.0,2,10.0,UPI
+TXN-101192,CUST-1141,user_1141@retailcorp.com,2026-08-16T19:00:00,STORE-WEB1,Antarctica_Zone,PROD-303,Stainless Steel Cookware Set,Home & Kitchen,249.0,2,10.0,Cash
+TXN-100005,CUST-1068,user_1068@retailcorp.com,2026-08-17T19:00:00,STORE-WEB1,Online,PROD-401,Designing Data-Intensive Applications,Books,45.0,2,10.0,Credit Card
+TXN-101194,,,2026-08-18T19:00:00,STORE-APP1,Online,PROD-502,Organic Sunscreen SPF 50,Health & Beauty,24.5,2,10.0,UPI
+TXN-101195,CUST-1020,user_1020@retailcorp.com,2026-08-19T19:00:00,STORE-S20,South,PROD-203,Waterproof Hiking Boots,Apparel,145.0,-3,10.0,UPI
+TXN-101196,CUST-1141,user_1141@retailcorp.com,2026-08-20T19:00:00,STORE-N11,North,PROD-203,Waterproof Hiking Boots,Apparel,-50.0,2,10.0,Debit Card
+TXN-101197,CUST-1009,user_1009@retailcorp.com,2026-08-21T19:00:00,STORE-APP1,Online,PROD-301,Nespresso Espresso Maker,Home & Kitchen,50.0,1,120.0,PayPal
+TXN-101198,CUST-1029,user_1029@retailcorp.com,2026-99-99 25:99:99_INVALID,STORE-W40,West,PROD-101,Apple MacBook Pro 14,Electronics,1999.0,2,10.0,UPI
+TXN-101199,CUST-1071,user_1071@retailcorp.com,2026-08-23T19:00:00,STORE-E30,Antarctica_Zone,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,10.0,Credit Card
+TXN-100005,CUST-1071,user_1071@retailcorp.com,2026-08-24T19:00:00,STORE-W40,West,PROD-501,Hydrating Face Serum,Health & Beauty,38.0,2,10.0,PayPal
