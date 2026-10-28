@@ -59,10 +59,10 @@ class DuckDBWarehouse:
                 );
             """)
 
-            # 2. Quarantined rejected records table
+            # 2. Quarantined rejected records table with primary key on rejection_id for idempotency
             conn.execute("""
                 CREATE TABLE IF NOT EXISTS rejected_transactions (
-                    rejection_id VARCHAR DEFAULT (uuid()::VARCHAR),
+                    rejection_id VARCHAR PRIMARY KEY,
                     transaction_id VARCHAR,
                     customer_id VARCHAR,
                     rejection_reason VARCHAR NOT NULL,
@@ -129,9 +129,11 @@ class DuckDBWarehouse:
             conn.close()
 
     def load_rejected_transactions(self, rejected_df: pd.DataFrame, run_id: str) -> int:
-        """Loads quarantined records with failure reasons into rejected_transactions."""
+        """Loads quarantined records with failure reasons into rejected_transactions with idempotent deduplication."""
         if rejected_df.empty:
             return 0
+
+        import hashlib
 
         conn = self.get_connection()
         try:
@@ -145,13 +147,33 @@ class DuckDBWarehouse:
             if "customer_id" not in rej.columns:
                 rej["customer_id"] = "UNKNOWN"
 
+            # Compute stable composite hash key (transaction_id + rejection_reason + raw_payload hash)
+            def compute_key(row):
+                # Filter out dynamic run metadata to guarantee stable idempotent hashes across rerun batches
+                clean_payload = {
+                    k: v for k, v in row.items() 
+                    if k not in ("pipeline_run_id", "rejected_at", "rejection_id", "raw_payload")
+                }
+                raw_hash = hashlib.sha256(str(sorted(clean_payload.items())).encode("utf-8")).hexdigest()[:12]
+                key_src = f"{row.get('transaction_id')}|{row.get('rejection_reason')}|{raw_hash}"
+                return hashlib.sha256(key_src.encode("utf-8")).hexdigest()[:24]
+
+            rej["rejection_id"] = rej.apply(compute_key, axis=1)
+
             conn.register("temp_rejected_incoming", rej)
+
+            # Idempotent upsert via DELETE + INSERT
+            conn.execute("""
+                DELETE FROM rejected_transactions
+                WHERE rejection_id IN (SELECT rejection_id FROM temp_rejected_incoming);
+            """)
+
             conn.execute("""
                 INSERT INTO rejected_transactions (
-                    transaction_id, customer_id, rejection_reason, rejected_at, raw_payload, pipeline_run_id
+                    rejection_id, transaction_id, customer_id, rejection_reason, rejected_at, raw_payload, pipeline_run_id
                 )
                 SELECT 
-                    transaction_id, customer_id, rejection_reason, rejected_at::TIMESTAMP, raw_payload, pipeline_run_id
+                    rejection_id, transaction_id, customer_id, rejection_reason, rejected_at::TIMESTAMP, raw_payload, pipeline_run_id
                 FROM temp_rejected_incoming;
             """)
             return len(rejected_df)
